@@ -1,0 +1,4883 @@
+degC, 604
+h, 536
+solution, 354
+%, 321
+g, 301
+water, 291
+mL, 265
+mmol, 208
+1, 181
+mixture, 172
+added, 172
+prepared, 172
+dried, 171
+10, 157
+2, 152
+5, 144
+min, 135
+stirring, 123
+washed, 122
+room temperature, 117
+M, 113
+30, 112
+used, 111
+obtained, 110
+100, 105
+heated, 105
+mixed, 99
+ethanol, 97
+stirred, 95
+dissolved, 94
+air, 91
+24, 90
+powder, 84
+3, 82
+ml, 81
+purchased, 78
+deionized, 76
+12, 74
+pH, 74
+60, 72
+20, 71
+calcined, 70
+mg, 69
+synthesized, 68
+50, 67
+4, 66
+distilled, 65
+autoclave, 64
+99, 61
+samples, 61
+oven, 59
+product, 58
+vacuum, 58
+precursor, 57
+80, 56
+1.0, 54
+filtered, 53
+powders, 51
+transferred, 49
+H2O, 47
+15, 47
+500, 46
+NaOH, 46
+40, 46
+GO, 45
+suspension, 45
+dispersed, 45
+120, 45
+collected, 43
+0.1, 43
+mm, 41
+wt%, 41
+K, 41
+6, 40
+0.5, 40
+solutions, 39
+overnight, 39
+hours, 38
+cooled, 37
+200, 37
+aqueous solution, 36
+products, 36
+V2O5, 35
+aqueous, 35
+precipitate, 34
+chemicals, 33
+heating, 33
+Aldrich, 33
+sample, 33
+HCl, 33
+kept, 32
+Sigma-Aldrich, 31
+several times, 31
+N, 31
+centrifugation, 31
+400, 29
+98, 29
+ground, 29
+600, 29
+μm, 29
+remove, 29
+25, 28
+8, 28
+70, 28
+atmosphere, 28
+C, 27
+carbon, 27
+yield, 27
+furnace, 27
+99.9, 27
+placed, 27
+rpm, 27
+performed, 27
+150, 26
+Ar, 26
+obtain, 26
+TEOS, 25
+sealed, 25
+molar ratio, 25
+temperature, 25
+pellet, 25
+Alfa Aesar, 25
+1000, 24
+H, 24
+maintained, 24
+solvent, 24
+180, 24
+solid, 24
+300, 24
+argon, 24
+99.99, 24
+drying, 23
+Cu, 23
+HF, 23
+form, 23
+catalyst, 23
+removed, 23
+mole ratio, 23
+99.999, 23
+mol, 23
+followed, 23
+IR, 23
+48, 23
+900, 22
+precursors, 22
+addition, 22
+277.47, 21
+particles, 21
+5.00, 21
+analytical grade, 21
+800, 21
+pellets, 21
+purification, 21
+cm-1, 21
+KBr, 21
+Si, 21
+72, 21
+filtration, 20
+materials, 20
+concentrated, 20
+TiO2, 20
+washing, 20
+KMnO4, 20
+times, 20
+90, 19
+DI, 19
+N2, 19
+7, 19
+hydrochloric acid, 19
+wt.%, 19
+degC min-1, 19
+annealed, 18
+diluted, 18
+0.2, 18
+700, 18
+acetone, 18
+composite, 17
+isolated, 17
+H2, 17
+nitrogen, 17
+without, 17
+SnO2, 17
+anhydrous, 17
+mixing, 17
+material, 17
+adjusted, 17
+graphite, 17
+silica, 17
+absolute, 16
+mol L-1, 16
+DMF, 16
+white, 16
+gel, 16
+1:1, 16
+CTAB, 16
+pressed, 16
+NaBH4, 16
+ZnO, 16
+slowly, 16
+nanoparticles, 16
+supplied, 15
+diameter, 15
+550, 15
+CNTs, 15
+days, 15
+X-ray diffraction, 15
+mixtures, 15
+cooling, 15
+formed, 15
+dropwise, 15
+de-ionized, 15
+85, 15
+Teflon-lined stainless steel, 14
+Synthesis, 14
+Merck, 14
+W, 14
+purity, 14
+MPa, 14
+catalysts, 14
+synthesis, 14
+nm, 14
+using, 14
+prepare, 14
+citric acid, 14
+sintered, 14
+99.5, 14
+vigorous, 14
+1.5, 14
+purified, 14
+95, 13
+methanol, 13
+formation, 13
+SrCO3, 13
+adding, 13
+flask, 13
+films, 13
+KOH, 13
+heating rate, 13
+18, 13
+sccm, 13
+cupric acetate hydrate, 13
+dispersion, 13
+wt %, 13
+degC/min, 13
+2.5, 13
+vessel, 13
+rinsed, 13
+briefly, 13
+carried, 13
+sonicated, 12
+separated, 12
+glass, 12
+foils, 12
+SiO2, 12
+bath, 12
+centrifuged, 12
+reagents, 12
+16, 12
+Teflon-lined, 12
+thickness, 12
+excess, 12
+dissolving, 12
+alcohol, 12
+cleaned, 12
+μL, 12
+sodium hydroxide, 12
+precipitates, 12
+35, 12
+450, 12
+substrate, 12
+coated, 12
+minutes, 12
+ultrasonication, 11
+H2SO4, 11
+3.0, 11
+H2O2, 11
+ratio, 11
+annealing, 11
+calcination, 11
+Ni, 11
+750, 11
+4.0, 11
+sonication, 11
+Na2CO3, 11
+conducted, 11
+treated, 11
+composites, 11
+0.3, 11
+pure, 11
+blocks, 11
+mortar, 11
+zeolite, 11
+weighed, 11
+solution A, 11
+160, 10
+graphene, 10
+substrates, 10
+250, 10
+Al2O3, 10
+LiOH*H2O, 10
+oxalic acid, 10
+dropped, 10
+MgO, 10
+fired, 10
+refluxed, 10
+H3PO4, 10
+denoted, 10
+weight ratio, 10
+stoichiometric amounts, 10
+source, 10
+AR, 10
+produced, 10
+homogeneous, 10
+membrane, 10
+film, 10
+graphene oxide, 9
+mg/mL, 9
+Li, 9
+1,4-phenyldiphosphonic acid, 9
+nitric acid, 9
+0.05, 9
+flow, 9
+PAN, 9
+three, 9
+slurry, 9
+MWW, 9
+support, 9
+graphite oxide, 9
+0, 9
+g L-1, 9
+produce, 9
+liquid, 9
+ball milling, 9
+14, 9
+Milli-Q, 9
+HNO3, 9
+Stoichiometric amounts, 9
+reduced, 9
+nanotubes, 9
+acetonitrile, 9
+chloroform, 9
+put, 9
+0.200, 9
+O, 9
+precipitated, 9
+Al, 9
+solution B, 9
+magnetic, 8
+plates, 8
+1,10-phenanthroline, 8
+acetic acid, 8
+evaporated, 8
+mM, 8
+Found, 8
+cupric nitrate hydrate, 8
+Mw, 8
+La2O3, 8
+1,3,5-phenyltriphosphonic acid, 8
+Sigma, 8
+13, 8
+1100, 8
+ice bath, 8
+urea, 8
+mL min-1, 8
+NH4OH, 8
+ammonia, 8
+POFA, 8
+alumina, 8
+aged, 8
+extracted, 8
+2.0, 8
+9, 8
+crucible, 8
+Anal. Calcd., 8
+Mn(CH3COO)2*4H2O, 8
+toluene, 8
+kDa, 8
+Sigma Aldrich, 8
+uL, 8
+110, 8
+Ti, 8
+ethylene glycol, 8
+pressure, 8
+99.8, 8
+agate, 8
+cm, 8
+350, 8
+ammonium hydroxide, 8
+made, 8
+45, 8
+four, 7
+hydrothermal reaction, 7
+V, 7
+oxygen, 7
+preparation, 7
+thoroughly, 7
+EtOH, 7
+complex, 7
+lithium, 7
+0.100, 7
+template, 7
+filtrate, 7
+11, 7
+Pa, 7
+color, 7
+deposited, 7
+polymer, 7
+1:3, 7
+provided, 7
+tube, 7
+1200, 7
+hybrid, 7
+CNT, 7
+1,3-phenyldiphosphonic acid, 7
+two, 7
+taken, 7
+sulfuric acid, 7
+28, 7
+stoichiometric amount, 7
+compound, 7
+thick, 7
+vial, 7
+65, 7
+hydrothermal, 7
+10000, 7
+Li2CO3, 7
+continuously, 7
+Fe, 7
+2:1, 7
+ultrasonically, 7
+sulfur, 7
+THF, 7
+nickel, 7
+Graphite, 7
+transparent, 7
+0.25, 7
+crystals, 7
+yellow, 6
+PMMA, 6
+MWCNTs, 6
+deposition, 6
+Zn, 6
+changed, 6
+carried out, 6
+Nb2O5, 6
+siRNA, 6
+Blue, 6
+Co3O4, 6
+MΩ cm, 6
+2.90, 6
+rinsing, 6
+Fluka, 6
+Samples, 6
+BLF, 6
+stoichiometric, 6
+0.078, 6
+grown, 6
+metal ions, 6
+chelating agent, 6
+sol, 6
+220, 6
+activated, 6
+fabricated, 6
+cool, 6
+Mn, 6
+black, 6
+three times, 6
+PVP, 6
+muffle furnace, 6
+0.42, 6
+0.43, 6
+combined, 6
+reaction vessel, 6
+nanowires, 6
+1:2, 6
+NaCl, 6
+Wako, 6
+high purity, 6
+complete, 6
+nanocomposites, 6
+suspensions, 6
+850, 6
+EG, 6
+AgNO3, 6
+Fe2O3, 6
+copper, 6
+0.015, 6
+Aladdin, 6
+75, 6
+NaNO3, 6
+became, 6
+reduction, 6
+gas, 6
+0.206, 6
+solvents, 6
+measured, 6
+Zn(NO3)2*6H2O, 6
+Te, 6
+coprecipitate, 6
+grinding, 6
+surfactant, 6
+Green, 6
+0.8, 6
+hydrolysis, 6
+0.4, 6
+immersed, 6
+1.2, 6
+hydrazine monohydrate, 6
+mol dm-3, 6
+poured, 6
+hydrothermal method, 6
+beaker, 6
+repeated, 6
+calcinated, 5
+sodium silicate, 5
+blue, 5
+dry, 5
+controlled, 5
+0.077, 5
+oxide, 5
+Ga2O3, 5
+ferric chloride, 5
+silicon, 5
+MOF-5, 5
+170, 5
+0.03, 5
+0.01, 5
+0.06, 5
+potassium hydroxide, 5
+deg, 5
+iron, 5
+0.079, 5
+containing, 5
+left, 5
+DCDA, 5
+precipitation, 5
+flowing, 5
+raised, 5
+TEA, 5
+graphite flakes, 5
+glove box, 5
+0.049, 5
+vigorously, 5
+layers, 5
+CeO2, 5
+spheres, 5
+ions, 5
+N,N-dimethylformamide, 5
+hexane, 5
+Sn, 5
+allowed, 5
+natural, 5
+Ru, 5
+TPP, 5
+APTES, 5
+sol-gel, 5
+continuous, 5
+green, 5
+sheets, 5
+solid-state reaction, 5
+held, 5
+impregnated, 5
+rapidly, 5
+s, 5
+Co NPs, 5
+2,2'-dipyridyl, 5
+pelletized, 5
+Polycrystalline, 5
+Nb, 5
+hexamethylenetetramine, 5
+alkaline activator, 5
+[24], 5
+rubber, 5
+reactants, 5
+disk, 5
+ball mill, 5
+Al-waste, 5
+coatings, 5
+hour, 5
+5.0, 5
+21, 5
+detected, 5
+ambient temperature, 5
+determined, 5
+drop by drop, 5
+NH4VO3, 5
+tubes, 5
+zeolites, 5
+evaporation, 5
+geopolymer, 5
+18.2, 5
+0.201, 5
+5.80, 5
+flux, 5
+ball milled, 5
+sieved, 5
+ACM, 5
+hydrazine, 5
+constant, 5
+F, 5
+Ag, 5
+cobalt, 5
+Cu2-xS NCs, 5
+nanorods, 5
+heat-treated, 5
+1400, 5
+LiNi0.5Mn1.5O4, 5
+named, 5
+Graphene oxide, 5
+135, 5
+Na2SO4, 5
+0.423, 5
+SnO2NC@N-RGO, 5
+650, 5
+shell, 5
+TiCl4, 5
+950, 5
+gray, 5
+Pt, 5
+oxidation, 5
+0.083, 5
+coating, 5
+glycine, 5
+mg mL-1, 5
+stored, 5
+appropriate amount, 5
+Teflon, 5
+ultrasonicated, 5
+0.21, 5
+introduced, 5
+MnSO4*H2O, 5
+naturally, 5
+0.864, 5
+foil, 5
+Co, 5
+dissolution, 4
+MAI, 4
+milled, 4
+BiCl3, 4
+suction filtration, 4
+42, 4
+ammonium metavanadate, 4
+96, 4
+mesh, 4
+PPG-FA, 4
+PEI, 4
+vol. %, 4
+240, 4
+synthesize, 4
+175, 4
+0.02, 4
+0.04, 4
+glucose, 4
+Co@SiO2, 4
+FeCl3, 4
+soaked, 4
+asymmetric, 4
+observed, 4
+NiCl2*6H2O, 4
+stainless steel, 4
+ETA, 4
+hydrothermal treatment, 4
+carbonized, 4
+monitored, 4
+Pr6O11, 4
+MFI, 4
+collect, 4
+Wako chem., 4
+nitrate, 4
+v/v, 4
+CuCl2, 4
+Hummers method, 4
+morphology, 4
+HMTD, 4
+M ratios, 4
+NbCl5, 4
+[23], 4
+labeled, 4
+hydrogen, 4
+nanocrystal aqueous suspension, 4
+140, 4
+species, 4
+hydrogen peroxide, 4
+LSGM, 4
+not, 4
+pyrrole, 4
+suspended, 4
+MnO2 NWs, 4
+polycrystalline, 4
+compounds, 4
+tetrabutyl titanate, 4
+certain amount, 4
+[26], 4
+get, 4
+Na2O, 4
+reaction, 4
+recovered, 4
+homogenous, 4
+F127, 4
+cast, 4
+precursor solution, 4
+flakes, 4
+charged, 4
+Oxone(r), 4
+grounded, 4
+nanocomposite, 4
+treatment, 4
+1:4, 4
+tube furnace, 4
+ratios, 4
+WS3, 4
+Zn-TPP, 4
+NaGaO2, 4
+subjected, 4
+rate, 4
+Ni-MH, 4
+high-purity, 4
+11.60, 4
+NH3*H2O, 4
+Se, 4
+DMSO, 4
+Fe(NO3)3*9H2O, 4
+PTFE, 4
+grain size, 4
+Teflon-lined stainless-steel, 4
+generate, 4
+PTAA, 4
+dilute, 4
+incubated, 4
+g-C3N4, 4
+3448, 4
+NiO, 4
+773, 4
+oleic acid, 4
+completion, 4
+N-RGO, 4
+compacted, 4
+CH2Cl2, 4
+dipped, 4
+mbar, 4
+Graphite oxide, 4
+membranes, 4
+dropping, 4
+La(NO3)3*6H2O, 4
+increased, 4
+quartz tube, 4
+resulting, 4
+NH4NO3, 4
+0.202, 4
+loaded, 4
+Na2SiO3, 4
+chemical composition, 4
+O2, 4
+freeze-drying, 4
+kV, 4
+ACN, 4
+TPAOH, 4
+calcining, 4
+clear, 4
+MnO2, 4
+magnetically, 4
+0.210, 4
+doped, 4
+stoichiometric ratio, 4
+apparatus, 4
+m2 g-1, 4
+37, 4
+FA, 4
+540, 4
+balls, 4
+Pd/CB, 4
+dissolve, 4
+heat treated, 4
+covered, 4
+SbCl3, 4
+static, 4
+tubular, 4
+matrix, 4
+agate mortar, 4
+reached, 4
+mass ratio, 4
+evacuated, 4
+supported, 4
+achieve, 4
+hollow, 4
+Pd, 4
+electrode, 4
+co-precipitation, 4
+GeO2, 4
+gelatin, 4
+layer, 4
+MeOH, 4
+1-2, 4
+Bi, 4
+porous, 4
+0.22, 4
+0.429, 4
+Aladdin Chemistry, 4
+polished, 4
+co-precipitation method, 4
+carbonization, 3
+β-Bi2O3, 3
+[18], 3
+AO-MWCNTs, 3
+1.16, 3
+mg ml-1, 3
+343, 3
+cm3, 3
+GS, 3
+GC, 3
+[34], 3
+270, 3
+estimated, 3
+residual, 3
+SWCNT, 3
+Polyacrylonitrile, 3
+CoFe2O4, 3
+EDC, 3
+hollow spheres, 3
+give, 3
+HMII, 3
+1577, 3
+3435, 3
+10.0, 3
+H2/Ar, 3
+VOPO4*2H2O, 3
+HMT, 3
+0.08, 3
+polyethylenimine, 3
+0.067, 3
+Preparation, 3
+maintaining, 3
+spinel, 3
+vacuo, 3
+solid state reaction, 3
+phenolic resin, 3
+804, 3
+reactor, 3
+2,2'-bipyridine, 3
+anatase, 3
+reacted, 3
+IGEs, 3
+XRD, 3
+[21], 3
+PSS, 3
+required amount, 3
+height, 3
+quenched, 3
+crucibles, 3
+0.15, 3
+carbon disulfide, 3
+applied, 3
+Potassium permanganate, 3
+make, 3
+NH4F, 3
+homogeneity, 3
+oxidi-sonication, 3
+1150, 3
+tungstic acid, 3
+Mg0.05Mn1.95(OH)4, 3
+He, 3
+SnO2NC/N-RGO-HS, 3
+TEM, 3
+medium, 3
+needles, 3
+BaCO3, 3
+MPII, 3
+molar composition, 3
+pyrolyzed, 3
+Millipore, 3
+mol%, 3
+nanocrystalline, 3
+time, 3
+dark green, 3
+P123, 3
+Mg, 3
+double distilled, 3
+marked, 3
+La, 3
+Vulcan XC-72, 3
+as-prepared, 3
+agent, 3
+mL g-1, 3
+etched, 3
+thermal decomposition, 3
+1058, 3
+K2HPO4, 3
+reacting, 3
+pyridine, 3
+0.051, 3
+propanol, 3
+diethyl ether, 3
+Dox, 3
+cycles, 3
+[22], 3
+one, 3
+atmospheric pressure, 3
+Commercial, 3
+PVA, 3
+released, 3
+17, 3
+19, 3
+turned, 3
+conversion, 3
+GPa, 3
+(TiVCrZrHf)N, 3
+salt, 3
+β-Fe(O)OH, 3
+mesoporous, 3
+slow, 3
+Co(NO3)2*6H2O, 3
+aluminum, 3
+0.487, 3
+Teflon-lined stainless, 3
+26, 3
+filtering, 3
+3000, 3
+66, 3
+1583, 3
+filter, 3
+Ethanol, 3
+70-80, 3
+sodium borohydride, 3
+SDS, 3
+Reduction, 3
+electrolyte, 3
+silver, 3
+polyacrylates, 3
+particle, 3
+[10], 3
+cathode, 3
+Ni(CH3COO)2*4H2O, 3
+colloidal, 3
+8.0, 3
+thiourea, 3
+Na, 3
+Nd, 3
+refluxing, 3
+NC, 3
+desired amount, 3
+cobaltous acetate, 3
+Kojundo Chemical, 3
+1034, 3
+resultant, 3
+78, 3
+starting, 3
+TTIP, 3
+hot plate, 3
+NPs, 3
+nano, 3
+5000, 3
+Dark green, 3
+proper amount, 3
+0.005, 3
+bottle, 3
+ethyl acetate, 3
+zinc nitrate hexahydrate, 3
+co-precipitated, 3
+ZIF-8, 3
+tin oxide, 3
+sequentially, 3
+FeCl3*6H2O, 3
+Cu-Zn-Al, 3
+23, 3
+29, 3
+acrylic acid, 3
+PPY, 3
+mol/L, 3
+characterized, 3
+phosphoric acid, 3
+reduce, 3
+electrodes, 3
+Cl-, 3
+TLC, 3
+concentration, 3
+metal nitrates, 3
+tetrahydrofuran, 3
+NH4H2PO4, 3
+777, 3
+electric, 3
+synthesised, 3
+HfO2, 3
+Sr(NO3)2, 3
+4:1, 3
+β-Bi2O3/Bi2S3, 3
+MA, 3
+873, 3
+TiN, 3
+Au, 3
+LiNi0.8Co0.2O2, 3
+0.203, 3
+cut, 3
+PbI2, 3
+PEG 20000, 3
+commercial, 3
+L, 3
+gradually, 3
+peanut skin, 3
+peeled, 3
+reduced pressure, 3
+modified Hummers method, 3
+tetrapropylammonium hydroxide, 3
+nanowire, 3
+[14], 3
+um, 3
+growth, 3
+sodium acetate, 3
+0.214, 3
+monomer, 3
+33, 3
+32, 3
+34, 3
+biochar, 3
+aniline, 3
+use, 3
+[15], 3
+NHS, 3
+paste, 3
+FeCl2*4H2O, 3
+autoclaves, 3
+0.6, 3
+palm oil fuel ash, 3
+varied, 3
+2-pyridyl carboxylic acid, 3
+NH3, 3
+0.400, 3
+Bi2S3, 3
+chosen, 3
+employed, 3
+day, 3
+CaO, 3
+580, 3
+completely, 3
+organic, 3
+length, 3
+CSs, 3
+nanopowder, 3
+23.20, 3
+isobutanol, 3
+system, 3
+(NH4)2S2O8, 3
+intermediate, 3
+AFC, 3
+MgZnO:Al, 3
+BZCY, 3
+Y2O3, 3
+starch, 3
+vacuum oven, 3
+fixed, 3
+Y(NO3)3*6H2O, 3
+eluent, 3
+722, 3
+0.434, 3
+triethylamine, 3
+S, 3
+Mn3O4, 3
+crystalline, 3
+1428, 3
+Mn(NO3)2, 3
+waste, 3
+bulk, 3
+GCNTS, 3
+appearance, 3
+grinded, 3
+supernatant, 3
+353, 3
+Ba, 3
+1446, 3
+boric acid, 3
+crushed, 3
+immediately, 3
+Teflon liner, 3
+quartz, 3
+cationic ratio, 3
+LiOH, 3
+deg C, 3
+macroemulsion, 3
+0.084, 3
+tetraethyl orthosilicate, 3
+hot, 3
+Nb(OEt)5, 3
+9.5, 3
+specimens, 3
+volume, 3
+CB, 3
+MnCl2*4H2O, 3
+impregnating, 3
+6:3:1, 3
+electrochemical anodization, 3
+kHz, 3
+rGO1, 2
+Cu-Zn, 2
+1.14, 2
+Co(NO3)2, 2
+TMDDD, 2
+1.13, 2
+SPS, 2
+analytical reagent, 2
+hydrothermally treated, 2
+nanosheets, 2
+activation, 2
+amorphous, 2
+GF, 2
+GA, 2
+tank, 2
+Ge, 2
+Ga, 2
+290, 2
+direct, 2
+dish, 2
+(NH4)6Mo7O24*4H2O, 2
+rGO/Ge/rGO, 2
+Soxhlet extraction, 2
+selected, 2
+Au NPs, 2
+Co2+, 2
+increasing, 2
+protection, 2
+1149, 2
+four times, 2
+95-100, 2
+ultrasonic vibration, 2
+NO3-, 2
+bundles, 2
+decomposed, 2
+cm2, 2
+temperatures, 2
+nitrates, 2
+redispersed, 2
+Li2Mn4O9, 2
+Cu/ZnO, 2
+F-doped, 2
+zinc acetate dihydrate, 2
+confirmed, 2
+0.873, 2
+template-free mesoporous, 2
+12.7, 2
+6.0, 2
+Ce(NO3)3*6H2O, 2
+10.3, 2
+FAM-labelled, 2
+1373, 2
+CH4, 2
+heat treatment, 2
+10.5, 2
+1.03, 2
+Si@C@CNT@C, 2
+HZSM-5, 2
+collector, 2
+hierarchical hollow, 2
+acetates, 2
+thermal reduction, 2
+Gd, 2
+sodium tungstate dihydrate, 2
+GCE, 2
+chlorine, 2
+atm, 2
+NH4+-, 2
+ball-milling, 2
+vibrated, 2
+wash, 2
+Na2MoO4*2H2O, 2
+mg mL- 1, 2
+0.069, 2
+0.066, 2
+ink, 2
+3-aminopropyltriethoxysilane, 2
+0.461, 2
+showed, 2
+0.466, 2
+H2S, 2
+18.5, 2
+LMO/CNT, 2
+melting point comparisons, 2
+vacuumed, 2
+[53], 2
+mins, 2
+sulfides, 2
+dodecylamine, 2
+FeSO4, 2
+viscosity, 2
+impurities, 2
+optimized, 2
+phase, 2
+freeze drying, 2
+Ag0.8Pb18SbTe20-xSex, 2
+initiator, 2
+tellurium, 2
+terephthalic acid, 2
+LSM, 2
+1145, 2
+probe, 2
+7.5, 2
+PAH, 2
+carbons, 2
+Nafion, 2
+sodium citrate, 2
+PEG-2000, 2
+Sulfuric acid, 2
+Cole-Parmer, 2
+765, 2
+degC min- 1, 2
+oil bath, 2
+bar, 2
+(NH4)6H2W12O40*xH2O, 2
+Au/AC, 2
+shots, 2
+reaction mixture, 2
+PDCP, 2
+combustion, 2
+capacity, 2
+BET surface area, 2
+Water, 2
+HAuCl4*3H2O, 2
+co-doped, 2
+Ni-ammonium, 2
+40-60, 2
+Na2MoO4, 2
+PMMA/graphene, 2
+appeared, 2
+BCY, 2
+TEOG, 2
+PPG, 2
+ether, 2
+desiccator, 2
+isopropyl alcohol, 2
+zirconia, 2
+same temperature, 2
+CC, 2
+substance, 2
+0.10, 2
+NMP, 2
+melted, 2
+regrinding, 2
+Ni-Si, 2
+decanted, 2
+incipient wetness impregnation, 2
+CVD, 2
+compact, 2
+boiled, 2
+n-butyl acetate, 2
+nanocrystals, 2
+Sinopharm Chemical Reagent Co., Ltd., 2
+1603, 2
+Na2WO4, 2
+rotated, 2
+wafers, 2
+prevent, 2
+PbMn7O12, 2
+57, 2
+manual, 2
+mixed-metal hydroxide, 2
+Pr0.5Ba0.4Ca0.1MnO3, 2
+[20], 2
+PTA, 2
+Bi(NO3)3*5H2O, 2
+Acros Organics, 2
+C6H12N4, 2
+1:0.8:0.2, 2
+9.26, 2
+PBS, 2
+sulphuric acid, 2
+STNF120C, 2
+shaken, 2
+done, 2
+nanoflowers, 2
+Ln2O3, 2
+CuO, 2
+Ag NWs, 2
+0.007, 2
+Fe(NO3)3, 2
+0.88, 2
+phosphate, 2
+ILEs, 2
+cetyltrimethylammonium bromide, 2
+no, 2
+graphite powder, 2
+cyclohexane, 2
+0.048, 2
+CeO2/TiO2, 2
+Graphene, 2
+warm, 2
+ice, 2
+Sr, 2
+MΩ cm-1, 2
+environment, 2
+g mol-1, 2
+quartz tubes, 2
+shot, 2
+mucic acid, 2
+Hydrogen peroxide, 2
+Sinopharm Chemical Reagent Co., Ltd, 2
+targets, 2
+Er(NO3)3*6H2O, 2
+uniform, 2
+527, 2
+520, 2
+filled, 2
+Mo, 2
+CaCO3, 2
+Raw, 2
+B2O3, 2
+Tanaka Kikinzoku Kogyo Co., Ltd., 2
+H2TeO3, 2
+MW, 2
+chemical, 2
+nylon, 2
+colloidal solution, 2
+ultrasonic bath, 2
+CuO/CeO2/TiO2, 2
+liquefied larch, 2
+muffle, 2
+Cu-doped, 2
+ceramic target, 2
+reflux, 2
+thicknesses, 2
+distillation, 2
+hydrogel, 2
+divided, 2
+solid-state reactions, 2
+MoOx/Fe2O3, 2
+designed, 2
+0.75, 2
+curing, 2
+1057, 2
+deposit, 2
+Sb, 2
+polypyrrole, 2
+SnO2NC + N-RGO, 2
+cold, 2
+equiv, 2
+WTR, 2
+dimethylsulfoxide, 2
+as-synthesized, 2
+938, 2
+930, 2
+ammonium tetrathiotungstate, 2
+investigated, 2
+CeCl3, 2
+CdMn7O12, 2
+P-gp siRNA, 2
+0.050, 2
+823, 2
+strontium nitrate, 2
+minimal amount, 2
+container, 2
+dialyzing, 2
+Pt/C, 2
+620, 2
+625, 2
+surfactants, 2
+Fe(acac)3, 2
+xerogel, 2
+formaldehyde, 2
+brought, 2
+were, 2
+decompose, 2
+resistivity, 2
+DD, 2
+La(NO3)3, 2
+ion exchanges, 2
+BPO, 2
+dispersant, 2
+slag, 2
+dryness, 2
+GO1, 2
+MLG, 2
+evaporate, 2
+boiling, 2
+ceria-modified, 2
+Na-beta, 2
+inserted, 2
+GOs, 2
+molar ratios, 2
+isostatically pressed, 2
+sonicating, 2
+0.48, 2
+0.45, 2
+2,2':6,2'' terpyridine, 2
+wood, 2
+Ni1-xZnxGa2O4, 2
+designated, 2
+Single crystals, 2
+reagent-grade, 2
+928, 2
+6.4, 2
+KH2PO4, 2
+923, 2
+P2, 2
+H2PdCl4, 2
+RGO, 2
+PPG-FA/siRNA, 2
+m2/g, 2
+0.025, 2
+HMDC, 2
+molds, 2
+reactant, 2
+MoS2, 2
+coupons, 2
+Cu(NO3)2, 2
+BaSe, 2
+selenium, 2
+PEG, 2
+1655, 2
+1585, 2
+1450, 2
+pre-treated, 2
+desired stoichiometry, 2
+[27], 2
+Co@m-SiO2, 2
+11.8, 2
+MCMB, 2
+I2, 2
+Hummer's method, 2
+foam, 2
+[25], 2
+10-20, 2
+Li4Ti5O12/CNTs, 2
+IL, 2
+Bi2Te3, 2
+99.998, 2
+210, 2
+Cu(NO3)2*3H2O, 2
+Al-MCM-41, 2
+PMWW, 2
+reach, 2
+HPLC, 2
+holding, 2
+1:5, 2
+ball-milled, 2
+chamber, 2
+glycol, 2
+small amount, 2
+ampoules, 2
+p-toluenesulfonic acid, 2
+recorded, 2
+Li4Mn5O12, 2
+FeCl3 6H2O, 2
+zeolite NaX, 2
+Triton X-100, 2
+vacuum-dried, 2
+glycerol, 2
+AAO templates, 2
+849, 2
+stand, 2
+organics, 2
+H2pbda, 2
+Co/SiO2, 2
+removing, 2
+nanohybrid, 2
+ILs, 2
+1591, 2
+CH3COOLi*2H2O, 2
+1025, 2
+YSZ, 2
+fabricate, 2
+nanotube, 2
+tetraethylorthosilicate, 2
+Tetraphenylporphine, 2
+P3, 2
+AgNPs, 2
+MnO2-coated, 2
+chemical vapor deposition, 2
+Au-xCeO2@SBA-15, 2
+phenol, 2
+spin-coating, 2
+manganese acetate, 2
+sodium sulfide nonahydrate, 2
+DEPC-treated, 2
+SiO2/C, 2
+freeze-dried, 2
+counter electrode, 2
+removal, 2
+ultrasonic cup-horn, 2
+ion-exchanged, 2
+treating, 2
+adjust, 2
+reground, 2
+Ni-Mn, 2
+Ni2+, 2
+clear green, 2
+carbon-coated, 2
+nitrogen-doped, 2
+condenser, 2
+BaCl2 2H2O, 2
+strong, 2
+precipitant, 2
+ABTH, 2
+potassium chloride, 2
+Panreac, 2
+vibrating, 2
+0.87, 2
+0.004, 2
+V/RE, 2
+solvated, 2
+Zn(NO3)2, 2
+electropolished, 2
+SDBS, 2
+Sm, 2
+known, 2
+7000, 2
+centrifugal, 2
+remained, 2
+Mn3O4/GN, 2
+2,2'-bipyridine-SnCl2, 2
+salts, 2
+1051, 2
+Deionized, 2
+BMII, 2
+1273, 2
+Eu, 2
+authentic, 2
+NH4H(HGeO3)2/GO, 2
+1473, 2
+1476, 2
+1474, 2
+multilamellar, 2
+paper, 2
+continued, 2
+Fe/ZSM-5, 2
+electrospinning, 2
+components, 2
+SrMo1-xNixO4, 2
+ethyl alcohol, 2
+HCOOH, 2
+Li ion, 2
+microwave oven, 2
+nanoparticles-dispersed suspension, 2
+95-98, 2
+Sodium hydroxide, 2
+mL s-1, 2
+centrifuge, 2
+Porous, 2
+hydrosol, 2
+Cr, 2
+cooling rate, 2
+Sinopharm AR, 2
+ash, 2
+[12], 2
+titrated, 2
+sonicator, 2
+973, 2
+971, 2
+electrospun, 2
+Co(NO3)2*6(H2O), 2
+reagent grade, 2
+d-glucose, 2
+impregnation method, 2
+Polyethyleneimine, 2
+prefired, 2
+polishing, 2
+Zr(OCH2CH2CH3)4, 2
+sulfide, 2
+MgSO4, 2
+gingko leaves, 2
+LiFe0.5Mn0.5PO4/C, 2
+NiO/S-1, 2
+NaHTi3O7, 2
+Mg(OH)2, 2
+react, 2
+multi-shelled, 2
+P2O5, 2
+2.08, 2
+pillaring, 2
+C19H42BrN, 2
+spin-coated, 2
+2,2'dipyridylamine, 2
+blended, 2
+stainless-steel, 2
+fine, 2
+emulsion, 2
+current, 2
+preparing, 2
+sodium carbonate, 2
+voltage, 2
+set, 2
+Ni(OH)2, 2
+by-products, 2
+TM(OH)2, 2
+Zeolyst, 2
+preheated, 2
+carbonates, 2
+[28], 2
+density, 2
+MCM-41, 2
+homogeneously, 2
+agents, 2
+ligands, 2
+Yield, 2
+raw, 2
+Solution A, 2
+36, 2
+anode, 2
+3436, 2
+LVP, 2
+0.205, 2
+heterostructure, 2
+malic acid, 2
+15.7, 2
+1073, 2
+exfoliated, 2
+LiMg0.05Mn1.95O4, 2
+different concentrations, 2
+vigorous magnetic, 2
+Ultrapure, 2
+Wako Corporation, 2
+SnCl4*5H2O, 2
+645, 2
+OH, 2
+Fisher Scientific, 2
+yields, 2
+HPLC grade, 2
+N2/H2, 2
+NWs, 2
+DuPont, 2
+MgSO4*7H2O, 2
+quartz tube furnace, 2
+1521, 2
+KHSO5, 2
+bp, 2
+PCBM, 2
+77, 2
+115.5, 2
+3058, 2
+oxidized, 2
+mTorr, 2
+tetraethoxysilane, 2
+placing, 2
+0-5, 2
+adjusting, 2
+polyethylene, 2
+repeatedly, 2
+iodometric titration, 2
+Co(OH)2, 2
+mature, 2
+99.9985, 2
+3.25, 2
+ml/min, 2
+Coupons, 2
+elements, 2
+ingots, 2
+(NH4)S2O8, 2
+purged, 2
+silver oleate, 2
+770, 2
+430, 2
+Cooling, 2
+Na2PdCl4, 2
+LLO, 2
+half an hour, 2
+Hummers' method, 2
+Co(CH3COO)2, 2
+glacial, 2
+Zn(OH)2, 2
+1067, 2
+0.065, 2
+assembly, 2
+mechanical alloying, 2
+turbid, 2
+440, 2
+SnCl2, 2
+separation, 2
+FTO, 2
+stabilization, 2
+different temperatures, 2
+aqueous dispersion, 2
+citric acid monohydrate, 2
+1021, 2
+NLNMO, 2
+filtrated, 2
+specific surface area, 2
+thin, 2
+1.45, 2
+HPAN, 2
+plate, 2
+analytical grade reagents, 2
+0.7, 2
+copolymer, 2
+Yb(NO3)3*6H2O, 2
+25 +- 2, 2
+procured, 2
+Na+, 2
+949, 2
+counter, 2
+Ammonia, 2
+byproducts, 2
+excess amount, 2
+average particle size, 2
+gel-like, 2
+s.c.c.m., 2
+P3HT, 2
+identified, 2
+shaking, 2
+705, 2
+707, 2
+ionic liquid, 2
+84, 2
+2.33, 2
+Si/Fe, 2
+lithium acetate, 2
+centrifuging, 2
+terminated, 2
+solution casting, 2
+stainless, 2
+459, 2
+SnO2-NTs/G, 2
+Au-CeO2@SBA-15, 2
+uniaxial pressure, 2
+LiMnPO4, 2
+Aqueous, 2
+Hmim, 2
+drop wise, 2
+bismuth, 2
+curatives, 2
+PPG-FA/Dox, 2
+LC/MS grade, 2
+1.4, 2
+AAO, 2
+1.8, 2
+Ta2O5, 2
+ultrasonic, 2
+38.5, 2
+utrapure, 2
+NC's, 2
+4000, 2
+thin layer, 2
+swollen, 2
+ceria, 2
+Mn-Mg, 2
+scrambled, 2
+spinels, 2
+HmimOAc, 2
+PEDOT:PSS, 2
+brine, 2
+hydrazine hydrate, 2
+NH4-beta, 2
+NiSO4*6H2O, 2
+996, 2
+Fritsch, 2
+AmBz, 2
+130, 2
+sediment, 2
+Pr, 2
+acquired, 2
+5-20, 2
+strontium carbonate, 2
+bought, 2
+P1, 2
+LiTiOPO4, 2
+1H NMR, 2
+2.42, 2
+SLFO4, 2
+[42], 2
+Nb2O5*nH2O, 2
+3 x 10, 2
+1423, 2
+furnace cooling, 2
+3.97, 2
+NiCl2, 2
+moved, 2
+460, 2
+exfoliate, 2
+dibutyl ether, 2
+deionized double distilled, 2
+[55], 2
+PSP, 2
+Ni(NO3)2*6H2O, 2
+three-necked, round-bottom, 2
+HPCs, 2
+buckypapers, 2
+wet, 2
+280, 2
+jars, 2
+solid-state reaction method, 2
+analytical reagent grade, 2
+dialyzed, 2
+resin, 2
+leaves, 2
+hydrolyzed, 2
+VO2, 2
+doping, 2
+Teflon lined, 2
+0.27, 2
+Bulk, 2
+molecular weight cutoff, 2
+0.086, 2
+0.080, 2
+deionized (DI), 2
+hydrothermal synthesis, 2
+nanostructures, 2
+wire, 2
+flake, 2
+Fe3+, 2
+Tetraethoxysilane, 2
+ammonium ferric citrate, 2
+ultrasound, 2
+2.53, 2
+styrene, 2
+polymerization, 2
+STNF80C, 2
+LVP/G, 2
+TiCl3, 2
+basic, 2
+rr-P3HT, 2
+99.95, 2
+transmission electron microscopy, 2
+LixV2O5, 2
+in situ, 2
+1180, 2
+721, 2
+Acros, 2
+Dimethylformamide, 2
+Mn3O4/MWCNTs, 2
+CTAT, 2
+degC /min, 2
+SrMn7O12, 2
+99.98, 2
+sodium nitrate, 2
+Appropriate proportions, 2
+lithium carbonate, 1
+Mn(II), 1
+799, 1
+CR, 1
+PdCl2 (PPh3)2, 1
+assembled, 1
+31.28, 1
+1.17, 1
+Thomas Swan & Co. LTD, Crockhall, Consett, UK (Product Ref: PR0920), 1
+SAED, 1
+1.95:0.05, 1
+0.1-0.3, 1
+solution-coated, 1
+compacts, 1
+introduction, 1
+μg dm-3, 1
+10-48, 1
+tungsten(IV) oxide, 1
+glovebox, 1
+962, 1
+tungsten-oxide, 1
+aq. solution, 1
+crystal structure, 1
+Industrial grade, 1
+frozen, 1
+comprising, 1
+appropriate amounts, 1
+455.7, 1
+succession, 1
+MAH, 1
+polytetrafluorene-ethylene, 1
+CS600, 1
+mass-produced, 1
+SnO2NC@RGO, 1
+EVA, 1
+thermally treated, 1
+bubbling, 1
+φ, 1
+second, 1
+transmission electron microscope (TEM, Tecnai-G2-F30 and Hitachi H-600), 1
+Lithium acetate dihydrate, 1
+copper nitrate, 1
+dark brown, 1
+mg/cm2, 1
+clear blue, 1
+polyelectrolytes, 1
+vacuum drying, 1
+Soxhlet's extractor, 1
+polyethylene glycol 4000, 1
+Me clay, 1
+new, 1
+connected, 1
+2.00:4.02:1.98:1.00:1297:108.41, 1
+SOLEMS, 1
+NGO, 1
+pore formers, 1
+simultaneously, 1
+acid-leaching, 1
+sodium ascorbate, 1
+microwave irradiation power, 1
+carbon nanotubes, 1
+nanowire arrays, 1
+three cycles, 1
+106, 1
+GeO2/C, 1
+monosodium phosphate anhydrous, 1
+centrifugation-redispersion, 1
+mg/ml, 1
+0.35, 1
+Mn(Ac)2[?]4 H2O, 1
+various reaction times, 1
+Hummer's method,42, 1
+Ir, 1
+Powders, 1
+slices, 1
+[16], 1
+Fe(III) ions, 1
+monolayers, 1
+Trifluoroacetic acid, 1
+DI-water, 1
+dodecanethiol, 1
+MgCl2, 1
+one-pot synthesis, 1
+mesocarbon, 1
+0.416, 1
+Carbot, 1
+CS2, 1
+analytically pure, 1
+Fe(III), 1
+Cetyltrimethylammonium p-toluene sulfonate, 1
+1-propanol, 1
+resultant CSs, 1
+n(Pd), 1
+MnO1.839, 1
+- 100, 1
+rod-like template, 1
+stoichiometric values, 1
+vibrating mill, 1
+Fe(NO3)3*6H2O, 1
+SWNTs, 1
+1435, 1
+5.14, 1
+kg/m3, 1
+hold, 1
+94, 1
+97, 1
+1623, 1
+Bunkokeiki, 1
+1431, 1
+copper oxide, 1
+glass microliter syringe, 1
+centrifugally, 1
+(NH4)2PdCl4, 1
+(NH4)2PdCl6, 1
+transparency, 1
+MEGX, 1
+H-ZSM-5, 1
+PPG-FA/Dox/siRNA, 1
+Propranolol hydrochloride, 1
+oxalic acids, 1
+PEN, 1
+in, 1
+551, 1
+β-actin antibody, 1
+titanium, 1
+Buehler, 1
+DPA, 1
+C4H6O6, 1
+1439, 1
+tungsten(IV) sulfide, 1
+OA, 1
+aging, 1
+CuO/CeO2, 1
+Nippon Sheet Glass, 1
+turn, 1
+Ru(NH3)6Cl3, 1
+LiI, 1
+barium, 1
+brown powder, 1
+wt.-%,, 1
+high-pressure synthesis, 1
+structure directing agent, 1
+1:80, 1
+77.3, 1
+LnBSCF, 1
+pole-shaped, 1
+1175, 1
+1173, 1
+1170, 1
+VWR Prolabo, 1
+VOHPO4*0.5H2O, 1
+Aldrich Chemicals, 1
+Tellurium, 1
+cut-off molecular-weight, 1
+telechelic, 1
+0.877, 1
+W0S1002, 1
+Pr2-xSrxCu1-xCoxO4+-δ, 1
+acid-treated, 1
+Aladdin Reagent, 1
+4Cu-3Ce-Ti, 1
+oven dried, 1
+sliced, 1
+maintain, 1
+Stoichiometric quantities, 1
+poly(diallyldimethylammonium chloride), 1
+1573, 1
+sodium titanate, 1
+applied voltage, 1
+Idemitsu, 1
+poly(vinylpyrrolidone), 1
+filtrating, 1
+industrial-grade, 1
+3434, 1
+Chengdu Kelong Chemicals Co., Ltd, 1
+Chengdu Institute of Organic Chemistry of Academy of Sciences, 1
+Go-Ppy, 1
+Mesoporous, 1
+12.0, 1
+1-10, 1
+sludge, 1
+Mesh, 1
+PH, 1
+[35], 1
+bubbler, 1
+wet impregnation method, 1
+high crystalline, 1
+edge, 1
+Dyesol, 1
+1370, 1
+16.4, 1
+40-100, 1
+teflon lined, 1
+79, 1
+MARS, CEM Corp., 1
+2.17:4.39:2.11:1.00:1408:29.44, 1
+Annealsys, 1
+chromatography, 1
+[57], 1
+Teflon-sealed, 1
+pretreated, 1
+Inductively coupled plasma (ICP) analysis, 1
+probe sonicator, 1
+Calcining, 1
+0 to 50, 1
+1.00, 1
+to boil, 1
+silver nitrate, 1
+APS, 1
+FeCl3[?]6H2O, 1
+K h-1, 1
+degCmin- 1, 1
+component, 1
+375, 1
+nanoclusters, 1
+direct current voltage, 1
+2-methylimidazole, 1
+Pure, 1
+VA, 1
+NaxLi4-xTi6O14, 1
+red-brown to black, 1
+HPC-1-n, 1
+0.2-0.6, 1
+893, 1
+AHM, 1
+BDH Chemical Ltd., 1
+above suspension, 1
+large, 1
+black colored, 1
+ammonia hydroxide, 1
+Carbon-coated, 1
+sintered-disk-type, 1
+sodium tetraborate, 1
+0.204, 1
+critic acid, 1
+polycarbonate membrane, 1
+HMF, 1
+Hydrothermal synthesis, 1
+Si@C@CNT, 1
+hydrocarbon, 1
+demi-water, 1
+modified Hummers method [26], 1
+free, 1
+commercially, 1
+Solenne or Lumitec, 1
+sheet, 1
+Chem-Supply, 1
+9-10, 1
+Bi2O3, 1
+Ti metals Ltd, UK, 1
+M ratio, 1
+exposing, 1
+pelletizing, 1
+vacuum distillation, 1
+box furnace, 1
+0.40, 1
+nCeO2, 1
+composite membrane, 1
+1x, 1
+softening point, 1
+Toray, 1
+0.85, 1
+Prolabo, 1
+3454, 1
+in volume, 1
+disodium hydrogen phosphate, 1
+zinc acetate dihydrate alcohol, 1
+peanut skin-KOH, 1
+initial molar ratios, 1
+Branson 3510, 1
+meshes, 1
+.31, 1
+0, 0.087, 0.1, 0.118, 1
+indium acetylacetonate, 1
+reflux conditions, 1
+mercury, 1
+dihydrate compound, 1
+Vanadia, 1
+sulfone, 1
+0.07, 1
+monodisperse, 1
+CuxZn1-xO, 1
+Aldrich Chemical Co., 1
+acidified, 1
+preheating, 1
+BEA, 1
+0.068, 1
+3.01, 1
+0.060, 1
+wastes, 1
+wrapped, 1
+ABCR GmbH & Co, 1
+1x10-5, 1
+Schiff bases, 1
+injected, 1
+15.4, 1
+sulphur, 1
+recrystallization, 1
+distance, 1
+homogenized, 1
+99.7, 1
+as-prepared samples, 1
+reactive RF magnetron sputtering, 1
+magnet, 1
+demolded, 1
+99.2, 1
+sputtering rate, 1
+Explorer-48, CEM Co., 1
+short-column, 1
+anhydrous cupric chloride, 1
+extracting, 1
+microwave-heating method, 1
+acetylene, 1
+size and morphology, 1
+polymer-coated, 1
+working electrode, 1
+thermo-polymerization, 1
+Li-TFSI, 1
+6.67 x 10- 1, 1
+Vp, 1
+intained, 1
+implemented, 1
+2.73, 1
+70P2S5-30Li2S, 1
+polyethylene glycolethylene, 1
+Lidocaine, 1
+Bismuth shots, 1
+humic acid, 1
+Cationic surfactant cetyltrimethylammonium bromide, 1
+cross-linking reagents, 1
+Li-TFSi, 1
+2.97, 1
+GeneTex, 1
+2.91, 1
+(001), 1
+GC analysis, 1
+Pt/C(b), 1
+complexes, 1
+gelators, 1
+Northeast Normal University, 1
+Microwave assisted hydrothermal reaction, 1
+ammonium peroxydisulfate, 1
+100.0, 1
+SGF, 1
+graphite flake, 1
+ammonium diethyldithiocarbamate, 1
+controlled reaction temperature, 1
+column chromatography, 1
+compressing, 1
+H-mordenite, 1
+48.0, 1
+triethanolamine, 1
+Thermo Fisher, 1
+SnCl2.2H2O, 1
+polypropylene, 1
+branched, 1
+K2SnO3, 1
+Los Angeles machine, 1
+[50], 1
+soluble, 1
+7.0, 1
+Ni(Ac)2[?]4 H2O, 1
+7.6, 1
+sodium tungstate, 1
+syringe pump, 1
+alcohols, 1
+0.103, 1
+Beijing Chemical Works (China), 1
+693, 1
+Corma et al.39,40, 1
+691, 1
+Cobalt(II) nitrate hexahydrate, 1
+695, 1
+average diameter, 1
+alkaline solution, 1
+Deposition, 1
+546, 1
+deaerated, 1
+545, 1
+Ni0.35Mn0.65(OH)2, 1
+poly(allylamine hydrochloride), 1
+HB zeolite, 1
+mole fraction, 1
+7-12, 1
+767, 1
+High-surface-area, 1
+PAH/PSS, 1
+water quenched, 1
+copper(II) acetylacetonate, 1
+% w/w, 1
+Si (OC2H5)4, 1
+w/w, 1
+dipping, 1
+V/V, 1
+Cobalt acetate, 1
+copper mononucleating ligand, 1
+Sodium oleate, 1
+C16-6-6(OH)2, 1
+38.12, 1
+release, 1
+Li-rich layered oxide, 1
+1387, 1
+Cu2Se1-xSx, 1
+homogeneously distributed, 1
+DMC, 1
+Au@NH2-SBA-15, 1
+MTTZ-modified silica films, 1
+potassium permanganate, 1
+3:100, 1
+petroleum ether, 1
+subject, 1
+Pt@Hol S-1, 1
+Nippon Zeon Co. Ltd, 1
+doping hierarchical mesoporous, 1
+sol-gel method, 1
+protected, 1
+iron(III) chloride hexahydrate, 1
+average mol. wt, 1
+conductive, 1
+aqueous solution binder, 1
+zeolite Y, 1
+Required amounts, 1
+48 to 51, 1
+Ar/H2, 1
+Micro 0850, 1
+build-up, 1
+383, 1
+geopolymerization, 1
+Copper sulphate, 1
+airflow, 1
+two days, 1
+Li2S, 1
+MOR, 1
+TOC content, 1
+sacrificial, 1
+Hitachi-4800, 1
+C2H4/Ar, 1
+NaOAc, 1
+MB instruments, Delhi, 1
+Li-TFSi/ACN, 1
+citric acid-nitrate, 1
+Mn/SiO2, 1
+Barth et al.38, 1
+Hundred microliters, 1
+CS800, 1
+anhydrous chlorobenzene, 1
+sodium aluminate, 1
+Mn(VII), 1
+Tianjin Jiangtian Chemicals Co. Ltd., 1
+silica-coated, 1
+Sn nanoparticles/graphite, 1
+253, 1
+without additional, 1
+255, 1
+Bi3 +, 1
+0:100, 1
+Tosoh corporation, 1
+40000, 1
+., 1
+paste mixes, 1
+extraction, 1
+Citrate-stabilized, 1
+orthorhombic structure, 1
+Pillaring, 1
+alkali activators, 1
+C3, 1
+26.27, 1
+containers, 1
+mA cm-2, 1
+Zn(NO3)2*4H2O, 1
+deposition bath, 1
+porcelain cup, 1
+Propidium iodide, 1
+varying durations, 1
+Branson Digital Sonifier 450, 1
+Hummers method [11], 1
+0.13, 1
+0.12, 1
+165, 1
+0.19, 1
+0.18, 1
+38.3, 1
+water vapor, 1
+20:1, 1
+Ce, 1
+HO2CCO2H, 1
+ERTEC, Magnum II, 600 W, 1
+potentiostat, 1
+38.7, 1
+oxalic acid dehydrate, 1
+12-hydroxystearicacid, 1
+(NH2)2S, 1
+0.076, 1
+polymer blend solutions, 1
+vacuum annealed, 1
+0.075, 1
+it, 1
+NT arrays/CC, 1
+SGFs, 1
+MnO2/HPCs-75, 1
+Ni (CH3COO)2*4H2O, 1
+aqueous suspension, 1
+poly(styrenesulfonate sodium salt), 1
+bottles, 1
+densified, 1
+PbO2, 1
+incipient-wetness impregnation, 1
+split, 1
+as-obtained, 1
+heating and cooling rate, 1
+tellurite, 1
+sulfoxide, 1
+80000, 1
+[CH2C(CH3)(CO2CH3)]n, 1
+99.6, 1
+Copper acetate monohydrate, 1
+sol solutions, 1
+CuFe2O4/GO, 1
+Na2, 1
+chemicals and materials, 1
+uniformly coating, 1
+one-pot solvothermal, 1
+Hefei Kaier Nano Company, 1
+Shenzhen Nanotechnologies Port Co. Ltd. (Shenzhen, China), 1
+NH4+, 1
+.32, 1
+1.060, 1
+cycle, 1
+Mathews Industrial Products Pty Ltd, 1
+G-NCs, 1
+measured amount, 1
+2,2'-dipyridylamine, 1
+low temperature, 1
+1605, 1
+1604, 1
+1607, 1
+Timcal, 1
+α,α,α-trifluorotoluene, 1
+Pr2(SO3)3*2.27N2O, 1
+s-NiO, 1
+polyethlyleneglycol 20,000, 1
+NH4-zeolites, 1
+807, 1
+0.105, 1
+vanadium oxalate, 1
+Oxamic, 1
+UF4 graphite, 1
+ambient atmosphere, 1
+Chemical oxidation, 1
+oil absorption, 1
+Li3PO4, 1
+consolidated, 1
+8.9, 1
+FeAs, 1
+Phenyl dichlorophosphate, 1
+high amount, 1
+Mucic acid, 1
+molybdenum(VI) oxide, 1
+leached, 1
+mgg- 1, 1
+1.001 +- 0.002, 1
+spread, 1
+Tetraethyl orthosilicate, 1
+MTTZ-siloxy derivative, 1
+(NH4)2WS4, 1
+MnO2/HPCs-90, 1
+Pd-Mn3O4/MWCNTs, 1
+casting, 1
+SBET, 1
+BaNa0.25Nb0.75-xFexO3-δ, 1
+manganese oxide, 1
+sodium dodecyl benzene sulfonate, 1
+[11], 1
+Ni-based, 1
+solid-state, 1
+dark blue crystals, 1
+sol-gel process, 1
+melting, 1
+silica-based, 1
+1555, 1
+Na2WO4*2H2O, 1
+cooler, 1
+56, 1
+53, 1
+metal precursor, 1
+537, 1
+differential thermal analysis, 1
+535, 1
+533, 1
+2,2'-Bipyridine-SnCl2, 1
+indium, 1
+planetary-type ball mill, 1
+disks, 1
+N-methylpyrrolidone, 1
+dried polymeric, 1
+selectivity, 1
+HI, 1
+Hg(NO3)2, 1
+HA, 1
+triply distilled, 1
+husk and fibers, 1
+chemical vapor deposition chamber, 1
+bare spinel, 1
+LiAc[?]2 H2O, 1
+dense, 1
+[33], 1
+purple, 1
+solid powder, 1
+doped with F, 1
+FeNbO4, 1
+Multi-walled, 1
+1399, 1
+hafnium (IV) chloride, 1
+potassium ferricyanide, 1
+Bayer AG, 1
+conventional, 1
+[51], 1
+oxalic, 1
+TG/DTA techniques, 1
+potassium dihydrogen phosphate, 1
+occurred, 1
+HCOOK, 1
+Invitrogen 0.1 μm filtered ultrapure, 1
+Aladdin Industrial Corporation (China), 1
+1412, 1
+proceed, 1
+millipore milli-Q water purification system, 1
+triple ion-exchange, 1
+autoclave flask, 1
+H+, 1
+C16H33(CH3)3N+Br-, 1
+Pristine Ti, Ti-2.5, Ti-5, Ti-10, Ti-20, Ti-50, 1
+PCMO, 1
+MTTZ, 1
+Growth temperature, 1
+thermally analysed, 1
+2.00:4.04:2.15:1.00:1297:54.21, 1
+gauze, 1
+2-methoxyethanol, 1
+homogenization, 1
+sodium oleate, 1
+obtaining, 1
+recombination kinetics, 1
+lead(II) acetate, 1
+NTi-mini P, 1
+crystalline ingots, 1
+finely, 1
+electrical power, 1
+39.8, 1
+39.6, 1
+reducing, 1
+analytical purity, 1
+pyrolysed, 1
+Fourier transform infrared spectroscopy, 1
+1165, 1
+crystallization, 1
+Mn2O7 (l), 1
+Tetrahydrofuran, 1
+liquefied larch sawdust, 1
+Fe/ZSM-5-sheet(x, y), 1
+(CH3COO)2Zn*2H2O, 1
+H2PtCl6.6H2O, 1
+width, 1
+Biopack, 1
+Tianjin Guangfu Fine Chemical Institute (China), 1
+13C and 1H NMR, 1
+deoxygenated, 1
+magnetic stirring, 1
+1/10, 1
+alkyl chain length, 1
+VWR, 1
+Å, 1
+0.009, 1
+forming, 1
+Biosolve, 1
+oil, 1
+structure-directing agents, 1
+Carbon, 1
+Ammonium metatungstate, hydrate, 1
+mW cm-2, 1
+0.4660, 1
+acid and base treatments, 1
+0.89, 1
+Gibco, 1
+crosslinked, 1
+iron nitrate nonahydrate, 1
+hydrobromic, 1
+devices, 1
+thermal gravimetric analysis, 1
+Blue Nano Inc., 1
+sapphire, 1
+Mg0.05Mn1.95(OH)4-Mn(OH)2, 1
+Ammonium acetate, 1
+reactive reagent, 1
+0.135, 1
+tetraphenylchlorine, 1
+155, 1
+3.53, 1
+brownish-black, 1
+sample A, 1
+16:3:1, 1
+potassium chlorate, 1
+exist, 1
+0.65, 1
+coprecipitation method, 1
+83-167, 1
+cupric nitrate, 1
+TBABF4, 1
+Fe ( OH ) y 3 - y, 1
+physical, 1
+μL min-1, 1
+SiW, 1
+mL/min, 1
+poly(vinyl pyrrolidone), 1
+LC Technology Solutions Inc, 1
+tin, 1
+CS1000, 1
+Sodium acetate, 1
+acetaminophen, 1
+70:30, 1
+Airgas, 1
+modified Pechini method, 1
+PANI/polymer-coated, 1
+0, 0.025, 0.05, 0.10, 0.20, 0.50, 1
+0.047, 1
+vacuum dried, 1
+0.597, 1
+ammonium, 1
+complex solution, 1
+Solvents, 1
+Ge/OMC, 1
+(III), 1
+rolling, 1
+highly pure, 1
+2 +- 0.3, 1
+Hydrochloric acid, 1
+PVP-stabilized, 1
+seeded CC, 1
+Tape Casting Warehouse, 1
+P-1, 1
+P-2, 1
+K3Fe(CN)6, 1
+0.442, 1
+0.440, 1
+Co ( OH ) 6 2 - x, 1
+freeze-dryer, 1
+XRF, 1
+controlling, 1
+29.00, 1
+organic nitrogenous compounds, 1
+chain, 1
+switched, 1
+Beijing Ande Technology Corporation (China), 1
+37.8, 1
+CNT/sulfur, 1
+three-stage, 1
+6.846, 1
+glycine-nitrate process (GNP), 1
+37.1, 1
+p-Si, 1
+reference electrode, 1
+MnCO3, 1
+Tx-100, 1
+sulfoxides, 1
+Complexes, 1
+SEM, 1
+dimethyl carbonate, 1
+fresh distilled, 1
+200-mesh, 1
+815, 1
+0.130, 1
+vacuum filtrated, 1
+SnO2 nanocrystals/graphene oxide, 1
+5.8, 1
+PDDA, 1
+sulfones, 1
+1492, 1
+thermally exfoliated, 1
+severely agglomerated, 1
+Nanotech Port Co. Ltd, Shenzhen, China, 1
+MIBK, 1
+1499, 1
+Nd(NO3)3, 1
+alkali activation, 1
+homogenous viscous, 1
+as-grown, 1
+Indium Acetate, 1
+CH3COONa*3H2O, 1
+UF membranes, 1
+NiOx, 1
+discrete, 1
+by volume, 1
+brownish, 1
+metal oxalate, 1
+TCI Chemicals (Japan), 1
+Perkin Elmer analyzer, 1
+SiH4, 1
+cylindrical PVC molds, 1
+Ammonium heptamolybdate tetrahydrate, 1
+thallium, 1
+core, 1
+solid state, 1
+blue (II), 1
+flux matrix, 1
+PCV, 1
+cold isostatic pressing, 1
+HOBART Mixer, 1
+300 mesh, 1
+Millipore 0.45 μm pore size, 1
+nano-sized, 1
+AS-ONE cold-wall chemical vapour deposition (CVD) reactor, 1
+1:0.75:300:1, 1
+pretreated macroporous cinnamic anion-exchange, 1
+melt, 1
+mortar and pestle, 1
+dry box, 1
+equal volume, 1
+1019, 1
+523, 1
+2-24, 1
+0.41, 1
+sucrose, 1
+1237, 1
+canary-yellow, 1
+1232, 1
+1233, 1
+ARL 3410 unit, 1
+MitoTracker, 1
+poly (sodium 4-styrenesulfonate), 1
+6-8, 1
+resol-ethanolic-20% mix, 1
+sieve, 1
+86,000, 1
+MB, 1
+Quaternary ammonium salts, 1
+MK, 1
+aluminum nitrate nonahydrate, 1
+low amount, 1
+JSM-6340F, JEOL Co., LTD., 1
+SPD 6 x 1200T, 1
+N-dealkylated, 1
+Mooney viscosity, 1
+Reagent Grade, 1
+325, 1
+n(Pd(NO3)2), 1
+Umicore, 1
+Alloy 800, 1
+TeO32 -, 1
+X-ray diffraction (XRD, a Philips X' Pert Pro. Diffractometer), 1
+A.C.S Reagent Grade, 1
+CH3NH3PbX3, 1
+pore size, 1
+[30], 1
+5.7, 1
+VWR Prolabo,, 1
+additive, 1
+working, 1
+Bi2MoO6, 1
+C4K2O9Ti*2H2O, 1
+ultrasonic treatment, 1
+Molecular Probes, 1
+cobalt nitrate, 1
+1200-1300, 1
+degreased, 1
+ultrasonic cleaner, 1
+Buchner filtration, 1
+1.7, 1
+BSA, 1
+Ln2MgIrO6, 1
+3082, 1
+equivalent number of moles, 1
+BNF, 1
+2.89, 1
+fuel, 1
+MnCl2[?]4H2O, 1
+Layer, 1
+3:2, 1
+acidic decomposition, 1
+S580, 1
+anneal, 1
+kg/cm3, 1
+Co ( OH ) 3 -, 1
+LiNO3, 1
+modified, 1
+double jacket, 1
+PMo@HKUST-1(I), 1
+following, 1
+lubricant, 1
+Ground, 1
+Hollow mesoporous, 1
+iodine, 1
+graphene/Cu, 1
+press-formed, 1
+NanoLab, 1
+Tokyo Chemical Industry Co., Ltd., 1
+Millipore Milli-Q, 1
+H-Y, 1
+H2PtCl6, 1
+hierarchical micro/nanostructures, 1
+ethanol/water, 1
+freezer, 1
+F-doped SnO2, 1
+sodium chloride, 1
+Wako Pure Chemical, 1
+VPO, 1
+Bi(NO3)3, 1
+1050, 1
+1.98:5.42:2.07:1.00:1297:8.13, 1
+17500, 1
+141, 1
+HSZ-940HOA, 1
+[10, 11], 1
+Ni/Co/Mn sulfate, 1
+respective, 1
+residues, 1
+0.72, 1
+calcination time, 1
+EDS microanalyses, 1
+70-90, 1
+100degC, 1
+EM Index, 1
+0.78, 1
+1055, 1
+1:0.8, 1
+Paraffin oil, 1
+TFA, 1
+yielding, 1
+La1-xSrxTi1-yFeyO3-δ, 1
+0.811, 1
+DIAK#1, 1
+TFT, 1
+2:2:6, 1
+ferrous sulfate heptahydrate, 1
+1192, 1
+3093, 1
+solubilized, 1
+Benzoyl peroxide, 1
+MnP-1, 1
+1.5 x 1.5, 1
+Chr, 1
+MnP-2, 1
+α-Al2O3, 1
+pitch, 1
+1.262, 1
+OMC, 1
+folic acid, 1
+0.451, 1
+molybdenum(IV) sulfide, 1
+Penta, 1
+939, 1
+constitutes, 1
+torr, 1
+937, 1
+935, 1
+934, 1
+appropriate Cu etchant, 1
+Li[CoxLi1/3-x/3Mn2/3-2x/3]O2, 1
+5.50, 1
+Geopolymer samples, 1
+BaxCr5Se8, 1
+absolute alcohol, 1
+Sn1+δ-xAgxTe, 1
+La0.9Sr0.1Ga0.8Mg0.2O3-δ, 1
+carbon/MgO, 1
+anhydrous sodium acetate, 1
+(100) wafers, 1
+0.054, 1
+ml min-1, 1
+0.052, 1
+blast furnace, 1
+825, 1
+22.8, 1
+RF power, 1
+three-neck, 1
+0.128, 1
+1536, 1
+Mn/USY, 1
+linear chain, 1
+0.123, 1
+1480, 1
+1487, 1
+zinc nitrate, 1
+sifted, 1
+dripped, 1
+Beijing Aobox Biotechnology (China), 1
+8.74, 1
+Lynseis Apparatus, 1
+shown, 1
+stainless Teflon-lined, 1
+792, 1
+54.81, 1
+vanadium(V) oxide, 1
+35.6, 1
+contained, 1
+investigation, 1
+methods27,28, 1
+0.397-0.793, 1
+iron nitrate, 1
+5NiO/S-1, 1
+indium chloride, 1
+1138, 1
+solid state synthesis, 1
+G, 1
+Puratronic(r), 1
+1132, 1
+225, 1
+gultaraldehyde, 1
+1135, 1
+Alfa Aesar (A Johnson Matthey Company), 1
+920, 1
+sodium citrate tribasic dehydrate, 1
+modify, 1
+NaHTi3O7*2H2O, 1
+Powder X-ray diffraction (XRD), 1
+hexachloroplatinic acid, 1
+cerium nitrate, 1
+transition, 1
+925, 1
+adsorb, 1
+initiate, 1
+round-bottomed, 1
+CoCl2*6H2O, 1
+510, 1
+(PAH/PSS)n/PAH-coated, 1
+1002, 1
+residual water droplets, 1
+first, 1
+Ni0.2Co0.2Mn0.6(OH)2, 1
+Li2SO4*H2O, 1
+1223, 1
+626, 1
+1220, 1
+629, 1
+wood slices, 1
+1.54, 1
+platinum-rhodium, 1
+decantation, 1
+0.2-0.3, 1
+xt, 1
+size, 1
+ascorbic acid, 1
+checked, 1
+CH3NH3PbI3, 1
+microwave autoclave, 1
+sol-filled, 1
+CHCl3, 1
+plastic, 1
+34.7, 1
+Ryoo and co-workers,43, 1
+workability, 1
+anhydrous 2-propanol, 1
+structures, 1
+magnetic stirrer, 1
+deg/min, 1
+programmed heated tubular, 1
+V s-1, 1
+Cu(CH3COO)2*H2O, 1
+P-123, 1
+potassium nitrate, 1
+9.01, 1
+C3N4-Pd, 1
+K2SO4, 1
+Ferric chloride hexahydrate, 1
+Nano Tech, 1
+CVD method, 1
+re-grinding, 1
+60/40, 1
+28.5, 1
+zeolite nanosheets, 1
+ceramics, 1
+mesh screen, 1
+browning, 1
+Doubly distilled, 1
+anhydrous sodium sulfate, 1
+nanostructured, 1
+Fe ( H 2 O ) 6 3 +, 1
+36.8, 1
+ammonium heptamolybdate, 1
+n(NaBH4), 1
+cellulose ester, 1
+nZrO2, 1
+Sinopharm Chemical Reagent Co. Ltd., 1
+solubility, 1
+PMFI, 1
+hollow mesoporous, 1
+stoichiometric ratios, 1
+sodium sulfate, 1
+Da, 1
+degC h-1, 1
+ideal, 1
+planetary ball mill, 1
+hydrofluoric acid, 1
+thermometer, 1
+Fe(OH)3, 1
+switching, 1
+Dp, 1
+GO2, 1
+microbeads, 1
+activated carbon black, 1
+sintered-disk, 1
+nanocolloidal suspension, 1
+densified glass-ceramic, 1
+lower aliphatic, 1
+EDTA, 1
+lactones, 1
+PW, 1
+screen printing, 1
+Shanghai Lingfeng Chemical Reagent Co., Ltd, 1
+wt. %., 1
+C3N4-Pd-5%, 1
+ionic liquid electrolytes, 1
+lanthanide sesquioxides, 1
+v:v, 1
+Tetrabutylammonium tetrafluoroborate, 1
+1:100, 1
+36,37, 1
+surface area, 1
+polyester/polyamide, 1
+show, 1
+Hanwha CO., Ltd, 1
+high yield, 1
+3490, 1
+ammonium molybdate tetrahydrate, 1
+MH, 1
+Nipol AR51, 1
+0.49, 1
+0.46, 1
+0.47, 1
+0.44, 1
+Lanthanum nitrate, 1
+punchy, 1
+Pluronic F68, 1
+Cu(II), 1
+IGE P, 1
+carbothermal reduction method, 1
+co-precipitation reactor, 1
+IGE H, 1
+PDMS/GO, 1
+equipped, 1
+admixture, 1
+SiO2/Pd/CB, 1
+SHCO, 1
+green porous support, 1
+IGE B, 1
+PG, 1
+disodium phosphate, 1
+organic acid, 1
+quickly, 1
+calcinations, 1
+anticipated mass ratio, 1
+Products, 1
+four portions, 1
+YSZ balls, 1
+methanol/He, 1
+S-1, 1
+2.1:1:3, 1
+2.06:4.14:2.15:1.00:1297:13.55, 1
+arrays, 1
+ultrastable, 1
+Li1.2Mn0.6-xRuxNi0.2O2, 1
+NaZSM-5, 1
+Dopamine, 1
+a-IGZO, 1
+922, 1
+cubic anvil high-pressure, 1
+weight ratios, 1
+combustion synthesis, 1
+0.483, 1
+hydrogen hexachloroplatinate, 1
+0.485, 1
+4,4-bpy, 1
+physically, 1
+thermally reduced, 1
+0.331, 1
+DE 521, 1
+1.039, 1
+0.332, 1
+seal, 1
+[41], 1
+NO2BF4, 1
+Acrylic, 1
+cerious nitrate, 1
+surfaces, 1
+Aldrich, EO20PO70EO20, 1
+Mg0.05Mn1.95(OH)4-Ni0.5Mn1.5(OH)4, 1
+crystal, 1
+Zr(NO3)4*5H2O, 1
+tartaric acid, 1
+900-1250, 1
+31.38, 1
+propionic acid, 1
+pump, 1
+refreshed, 1
+FePc, 1
+J&K Chemical Ltd., 1
+0.5:1, 1
+bimetallic, 1
+Na2-xFe2(SO4)3, 1
+Natural, 1
+PEO106PPO70PEO106, 1
+3.6-4.8, 1
+screen, 1
+CEP-200BX spectrometer, 1
+ion exchange, 1
+PEG amine, 1
+10.2, 1
+bath temperature, 1
+free-standing, 1
+final products, 1
+4-azidoaniline hydrochloride, 1
+doubly distilled, 1
+Nicco Corp, 1
+780, 1
+781, 1
+2.06:4.28:2.26:1.00:1315:109.95, 1
+methanolic, 1
+methyl ammonium iodide, 1
+macroemulsions, 1
+SrPdO3, 1
+N2H4, 1
+3Ni1, 1
+Fe ( OH ) 4 -, 1
+S-MPC, 1
+sol-gel transition, 1
+CH3COO(CH2)3CH3, 1
+Europium, 1
+biphenyl, 1
+LiCH3COO*H2O, 1
+r min-1, 1
+speed rate, 1
+NiGa2O4, 1
+Sitrate method, 1
+thin film, 1
+67, 1
+68, 1
+Jiangsu Chemical Company, 1
+Graphitic, 1
+TEC10E50E, 1
+boat, 1
+coarsen, 1
+1586, 1
+absence, 1
+production, 1
+vigorously magnetic, 1
+Excess, 1
+506, 1
+hydroxide ions, 1
+hot pressing, 1
+tetraalkyl ammonium hydroxide, 1
+Oxford Link ISIS system, 1
+633, 1
+vanadia, 1
+chloroform-hexane, 1
+1215, 1
+NH4-ZSM-5, 1
+0-10, 1
+polymeric precursor, 1
+thermostatic, 1
+Electrodeposition, 1
+PVA stabilized, 1
+peanuts, 1
+syringe filters, 1
+anthracene, 1
+CO2, 1
+stacked, 1
+4-5, 1
+carbon black, 1
+Ag NW, 1
+incipient wetness impregnations, 1
+irregular shapes, 1
+1103, 1
+Micron, 1
+tens of minutes, 1
+dialysis bags, 1
+microporous, 1
+1108, 1
+Ar-filled, 1
+aluminium, 1
+HRTEM imaging, 1
+4-tert-butylpyridine, 1
+n-hexane, 1
+fabricating, 1
+Selenium, 1
+mill, 1
+cavity glasses, 1
+cured, 1
+formic acid, 1
+baths, 1
+based methanol synthesis catalysts, 1
+Modified RPMI-1640 Medium, 1
+sieving, 1
+media, 1
+11.6, 1
+11.1, 1
+ultrasonically cleaned, 1
+11.3, 1
+nanotube dispersion, 1
+magnesium chloride, 1
+pan, 1
+rGO, 1
+959, 1
+finish, 1
+neutral pH, 1
+Oxygen, 1
+queous solution, 1
+changing, 1
+PANI, 1
+[49], 1
+RuCl3, 1
+Facile synthesis, 1
+keeping, 1
+100-250, 1
+organic binder, 1
+Calcein AM, 1
+several min, 1
+nonionic surfactant, 1
+Pr2O3, 1
+suitable volume, 1
+SnO2 nanocrystal/N-RGO, 1
+dimension, 1
+resulting mixtures, 1
+steamed, 1
+poly-ethylene glycol, 1
+954, 1
+ILE, 1
+non-templated, 1
+reused, 1
+0.1; 0.2; 0.4, 1
+speed, 1
+foam substrates, 1
+polymerized, 1
+Cr2O3, 1
+Ar + N2, 1
+1475, 1
+Nanosized, 1
+aqueous solutions, 1
+spark plasma sintering, 1
+MnSO4, 1
+drop-wise, 1
+microwave system, 1
+(99.8, 1
+galactose oxidation, 1
+MBII, 1
+Strong alkaline, 1
+citric, 1
+ultra-pure HPLC grade, 1
+3.65, 1
+dropwise adding, 1
+P3HT/PCBM, 1
+dark, 1
+solid products, 1
+IPA, 1
+peroxide-containing, 1
+ethanolic solution, 1
+Sodium titanate, 1
+0.57, 1
+Poly(triaryl amine), 1
+plain glass, 1
+LDC, 1
+Mn2O3, 1
+cobalt(II) nitrate hexahydrate, 1
+62, 1
+Mn2O7, 1
+incompletely combusted, 1
+2.03:4.18:2.00:1.00:1315:13.74, 1
+PEO, 1
+PABTH, 1
+served, 1
+Doxorubicin, 1
+amine, 1
+immersing, 1
+R6G, 1
+0.63, 1
+porous structure, 1
+existing, 1
+F68, 1
+titanium tetrachloride, 1
+La0.8Sr0.2MnO3-δ, 1
+ultrapure, 1
+duration, 1
+low-density, 1
+processing cycles, 1
+Merck KGaA, 1
+Sorvall RC5C Plus, 1
+Cell Counting Kit-8, 1
+under vacuum overnight, 1
+molybdenum(IV) oxide, 1
+microstucture, 1
+wet milled, 1
+stoichiometric mixture, 1
+Geopolymerization, 1
+912, 1
+C6H4 (COOH)2, 1
+biased, 1
+1:1.5, 1
+yellow-colored, 1
+0.491, 1
+P2S5, 1
+polymer solution, 1
+resulting powders, 1
+Na2S*9H2O, 1
+chamber pressure, 1
+metal oxalates, 1
+input heater power, 1
+Pd@Graphene, 1
+desiccated, 1
+847, 1
+MoS 2, 1
+25degC, 1
+HD-2700, Hitachi High-Technologies Corp., 1
+Si2O, 1
+ice water, 1
+Manganese sulfate monohydrate, 1
+magnesium sulfate, 1
+Pyrrole, 1
+vigorous stirring, 1
+polymer blend, 1
+UV-Ozone cleaner, 1
+Ni(NO3)*6H2O, 1
+mCeO2, 1
+Te oxoacids, 1
+2.07:4.10:2.22:1.00:1321:55.24, 1
+burning, 1
+afforded, 1
+LiF, 1
+C3N4, 1
+PAN/DMF, 1
+Fluka Analytical, 1
+residual etchant, 1
+black-colored, 1
+vaporize, 1
+shells, 1
+vacuum filtration, 1
+paddle, 1
+final cathode materials, 1
+NP, 1
+g-1, 1
+viscous, 1
+NT, 1
+Pluronic, 1
+P-4, 1
+precursor compound, 1
+Tosoh Corporation, 1
+Potassium acetate, 1
+Yb3+, 1
+Methyl blue, 1
+nickel sulphate, 1
+hydrochloric, 1
+3071, 1
+ceramic nano, 1
+0.813, 1
+1590, 1
+silicalite-1, 1
+potassium hydrogen phthalate, 1
+three-necked, 1
+applying, 1
+Beijing Chemicals, 1
+P-3, 1
+mixed PEI-Zn(II), 1
+Desired amount, 1
+Gd2O3, 1
+31.2, 1
+hs, 1
+Pt/CB, 1
+1035, 1
+uric acid, 1
+complexing, 1
+bmimBF4, 1
+604, 1
+(CH3COO)2Zn, 1
+disk electrode rotator, 1
+1201, 1
+1700, 1
+washings, 1
+clear colloidal, 1
+nucleate, 1
+High purity, 1
+source/template/surfactant, 1
+compact press, 1
+USY, 1
+635, 1
+Plano GmbH, 1
+H2mpyrOAc, 1
+4.6, 1
+[52], 1
+4.2, 1
+Ho2O3, 1
+3101, 1
+In(AcAc)3, 1
+Manganese oxide, 1
+1110, 1
+1116, 1
+Teflon-lined hydrothermal, 1
+NH4-mordenite, 1
+1448, 1
+diamond paste, 1
+20-1200, 1
+6.20, 1
+Nickel acetate, 1
+Hierarchical porous, 1
+clear solution method, 1
+PTFE lined steel, 1
+poly(oxyethylene) (1,1,3,3-tetramethylbutyl) phenyl ether, 1
+loading, 1
+phthalic acid, 1
+metal oxide, 1
+tBP/ACN, 1
+fresh, 1
+ICP, 1
+-0.9, 1
+2.15:4.11:5.05:1.00:1321:27.61, 1
+condensation, 1
+dicyandiamide, 1
+Camptothecin, 1
+3-9, 1
+adsorbed, 1
+acids, 1
+Fe3O4/graphene, 1
+cobalt (II) acetate tetrahydrate, 1
+stirring conditions, 1
+stoichiometric molar ratios, 1
+silver tubes, 1
+12.18, 1
+ethyl ether, 1
+UV-VIS spectroscopy, 1
+copper(II) acetate hydrate, 1
+ceramic, 1
+month, 1
+HYP-QX, China, 1
+hydraulic, 1
+resol, 1
+Ni-Pt@Hol S-1, 1
+SnCl2*2H2O, 1
+synthetic, 1
+content, 1
+Nanowires, 1
+syntheses, 1
+[31], 1
+citric/oxalic, 1
+diluting, 1
+MnO/GN, 1
+0.06 7, 1
+Silica-coated, 1
+M-Y, 1
+110 +- 5, 1
+polytetrafluoroethylene, 1
+Hanwha Nanotech (CMP-310F), 1
+type L92/095, 1
+Silufol, 1
+bubbled, 1
+oxides, 1
+6x5, 1
+Bulk phase, 1
+NaV3(PO4)3/C, 1
+got, 1
+bubbles, 1
+0.211, 1
+capillary, 1
+Ga(NO3)3*9H2O, 1
+Copper, 1
+37.9, 1
+C3N4-Pd-3%, 1
+1.78, 1
+s.c.c.m, 1
+HSZ-931HOA, 1
+electrical oven, 1
+Zinc nitrate hexahydrate, 1
+ultrasonically treated, 1
+small, 1
+highest discharge capacity, 1
+lanthanum molybdate, 1
+tri-sodium citrate, 1
+3.19, 1
+Chempur, 1
+90T, 1
+hydrolyzed PAN, 1
+CDH, 1
+VWR Scientific., 1
+TSC, 1
+throughly, 1
+Steam activation, 1
+low molecular weight branched, 1
+10.42, 1
+C3N4-Pd-10%, 1
+Sulfur, 1
+LiPF6, 1
+Ω/#, 1
+M(OH)2, 1
+CTAT-Pluronic F68, 1
+residue, 1
+yttrium (III) chloride hexahydrate, 1
+hBN, 1
+HfCl4, 1
+CPT, 1
+transmission electron microscope (TEM, JEM-2010), 1
+Spherical, 1
+3.02, 1
+furnace cooled, 1
+1452, 1
+ranged, 1
+15 000, 1
+HX, 1
+resulted, 1
+small glass, 1
+3.084, 1
+nanorod, 1
+3-(pyridine-3-yloxy)benzene-1,2-dicarboxylic acid, 1
+Anedra, 1
+906, 1
+Nitrates, 1
+Zn-tetraphenylporphine, 1
+pyrolysis, 1
+Compound 1, 1
+Larch sawdust, 1
+CuSO4*5H2O, 1
+adsorption, 1
+milky, 1
+241, 1
+sealing, 1
+Zn1-xSrxO, 1
+nanofoam, 1
+SLFO4 - δ, 1
+(NH4)2[(VO)(C4H4O6)2], 1
+indium nitrate hydrate, 1
+solvent exchange, 1
+190, 1
+green porous, 1
+filter paper, 1
+MWCNT@MPC, 1
+energy dispersive X-ray spectroscopy (EDS), 1
+inorganic, 1
+dense electrolyte, 1
+680, 1
+palm oil shells, 1
+p.p.m., 1
+3450, 1
+Bi2WO6, 1
+851, 1
+wiped, 1
+residual aqueous solution, 1
+acid fuchsin, 1
+TFT glass, 1
+0.86, 1
+0.84, 1
+0.006, 1
+0.002, 1
+R&M Chemicals, 1
+flat, 1
+metal-urea, 1
+volatiles, 1
+μg mL-1, 1
+unstable, 1
+copper(II) nitrate hydrate, 1
+inner height, 1
+2,2':6,2''-terpyridine, 1
+1.5NiO/S-1, 1
+1.165, 1
+cerium-niobium mixed oxides, 1
+NiCuLaZr, 1
+1:12, 1
+1:10, 1
+created, 1
+emery paper, 1
+Soxhlet, 1
+Mn3O4/MWCNT, 1
+SC, 1
+Panasonic, 1
+Shanghai Chemical Reagent, 1
+processing, 1
+yttrium-based coordination polymer, 1
+BTC, 1
+Cobalt nitrate, 1
+3062, 1
+3064, 1
+chemical reagents, 1
+3069, 1
+0.0025, 1
+Vulcan XC-72R, 1
+anhydrous PdCl2, 1
+1052, 1
+5.3, 1
+5.5, 1
+Soluble, 1
+acetylene black, 1
+pan-stee, 1
+ingot, 1
+MAH process, 1
+Citric acid, 1
+0.173, 1
+conventional solid state synthesis, 1
+thermally decompose, 1
+incorporated, 1
+Acros Organic, 1
+1.0954, 1
+H2SO4/H3PO4, 1
+616, 1
+2.05:4.21:2.13:1.00:1347:14.08, 1
+Methyl isobutyl ketone, 1
+AMP method 31, 1
+1523-1623, 1
+horizontal, 1
+1.65:4.30:1.80:1.00:1028:85.93, 1
+Complete, 1
+-53, 1
+3117, 1
+high resolution scanning electron microscope, 1
+foam substrate, 1
+Fe-SiO2, 1
+two-step reduction synthesis procedure, 1
+11.5, 1
+VO2 (B), 1
+dispersing, 1
+began, 1
+hardened stainless steel vial, 1
+pans, 1
+solvothermal, 1
+Ni(NO3)2, 1
+μg/mL, 1
+1301, 1
+1302, 1
+air-ventilated, 1
+precursor powder, 1
+sodium hydrogen carbonate, 1
+ammonium persulphate, 1
+1.4-fold excess, 1
+thermal, 1
+core/shell, 1
+BPEI, 1
+derived, 1
+at rest, 1
+492, 1
+Zn(NO3)2*6 H2O, 1
+MoO3, 1
+22, 1
+Li2MnSiO4, 1
+92.6, 1
+oxidization, 1
+TiVCrZrHf, 1
+Maheshwari et al.,41, 1
+SrMo1-xNixO3, 1
+zeolite-supported, 1
+ML1+4, 1
+dimethyl formamide, 1
+6.03, 1
+copper acetate monohydrate, 1
+agitated, 1
+4 x 10-3, 1
+Engelhard, 1
+Ar-5% H2, 1
+buffering, 1
+Le Carbone Lorraine, 1
+specimen, 1
+H-beta, 1
+commercially-available, 1
+[58], 1
+Cu(NO3)2*2.5H2O, 1
+lab water purification system, 1
+2x, 1
+Dioxygen, 1
+β-Fe(O)OPDCP, 1
+65.4, 1
+ultrasonically dispersed, 1
+stopped, 1
+Formic acid, 1
+die, 1
+ethylene carbonate, 1
+Zinc Acetate dehydrate, 1
+PVdF, 1
+weight, 1
+carbon-coated quartz, 1
+PMNCs, 1
+required quantity, 1
+KeYan Co, 1
+constant temperature, 1
+desired temperature, 1
+0.915, 1
+0.312, 1
+composite inks, 1
+oC/min, 1
+20.0, 1
+Bovine serum albumin, 1
+rare-earth metal, 1
+Nafion 117(r), 1
+173, 1
+potassium silicate, 1
+ferric oxide, 1
+1.74, 1
+1.75, 1
+granulated, 1
+deposition time, 1
+La0.4Ce0.6O2-δ, 1
+glassy carbon, 1
+Aldrich Sigma, 1
+boron nitride, 1
+3.09, 1
+mixer, 1
+sublimed, 1
+porcelain, 1
+EC, 1
+alkaline activators, 1
+Merck Millipore, 1
+Eu(NO3)3*6H2O, 1
+GZO, 1
+KS6, 1
+jet, 1
+Sr0.7Ho0.3CoO3-δ, 1
+mAh g-1, 1
+ASP-100F, 1
+electrocatalyst, 1
+2.24, 1
+red-violet, 1
+N-methylbenzimidazole, 1
+2.25, 1
+GaGeTe1-y, 1
+oil press load, 1
+niobium chloride, 1
+gmol- 1, 1
+incipient wetness technique, 1
+590, 1
+radical, 1
+pestle, 1
+light blue (III), 1
+proton form, 1
+utilized, 1
+Stoichiometric, 1
+2-propanol, 1
+fine powders, 1
+Air Liquide, Denmark, 1
+Dichloromethane, 1
+Gerner-Jensen, 1
+15.33, 1
+979, 1
+978, 1
+SrCO3/Fe2O3, 1
+glutaraldehyde, 1
+Dicyandiamide, 1
+tungsten carbonyl, 1
+0.1 x 0.5, 1
+1.54050, 1
+Ammonium hexachloropalladate (IV), 1
+pre-oxidized, 1
+titanium tetra isopropoxide, 1
+2.06:4.14:2.03:1.00:1315:137.44, 1
+coal tar pitch, 1
+Ref. [43], 1
+MCMBs, 1
+7-fold excess, 1
+0.05; 0.1, 1
+HClO4, 1
+AstraZeneca Espana, 1
+electrical pulse process, 1
+(Ni1-xCox)0.85Se, 1
+diffusion, 1
+Indium nitrate hydrate, 1
+2.11:4.19:2.08:1.00:1347:28.16, 1
+3440, 1
+3443, 1
+0.019, 1
+SrTiO3, 1
+store, 1
+0.94, 1
+881, 1
+880, 1
+7a, 1
+<= 2, 1
+dropwisely, 1
+tBP, 1
+PMT, 1
+cold-pressed, 1
+Elemental, 1
+short time, 1
+without stirring, 1
+AI 4083, 1
+Chemical Reagents, 1
+Zn(CH3COO)2*2H2O, 1
+nm/min, 1
+(MgCO3)4Mg(OH)2*5H2O, 1
+feeding distance, 1
+Single-walled, 1
+NaH2PO2*H2O, 1
+La2-xPrxCuO4+-δ, 1
+Stoe StadiP X-ray diffractometer, 1
+NagaseChemtex XNR5516Z, 1
+Na2Fe2(SO4)3, 1
+functionalised, 1
+1500, 1
+stoichiometry, 1
+anodized, 1
+Teflon reactor, 1
+vacuum chamber, 1
+772, 1
+2,2'-bipyridyl amine, 1
+kJ, 1
+778, 1
+Mixer/Mill, 1
+74, 1
+1-Methyl-3-hexylimidazolium iodide, 1
+lyophilization, 1
+0.0037, 1
+three consecutive, 1
+3052, 1
+refrigerator, 1
+Mitsui Mining and Smelting Co. Ltd., 1
+uncalcined hollow mesoporous, 1
+opaque, 1
+cover, 1
+Nazar's group.10, 1
+CNT-GO, 1
+carbides, 1
+triphenylphosphine, 1
+equimolar, 1
+cling film, 1
+FAU, 1
+Hexamethylenediamine carbamate, 1
+NiC4H6O4*4H2O, 1
+Electroless deposition, 1
+1269, 1
+1268, 1
+green (I), 1
+KD-I, 1
+Cobalt-Mesoporous Silica NPs, 1
+661, 1
+high-purity graphite, 1
+EtOAc, 1
+0.9, 1
+degraded, 1
+Shanghai Boyle Chemical Co. Ltd, 1
+radio frequency (RF) magnetron sputtering technique, 1
+blender, 1
+oven-dried, 1
+Potassium hydroxide, 1
+[59], 1
+distributed, 1
+526, 1
+0.212, 1
+65-95, 1
+8, 23, 24, 25 and 26, 1
+2,5-Diformylfuran, 1
+Ultrasonic blending, 1
+1311, 1
+NH4-Y, 1
+3/1, 1
+water-soluble, 1
+ion-exchange, 1
+Ag/AgCl(sat), 1
+μl, 1
+1.84, 1
+molten, 1
+gels, 1
+conventional solid-state route, 1
+Nanoplates, 1
+40 ~ 60, 1
+dehydration, 1
+Eagle glass by Corning, 1
+2.11:4.26:5.04:1.00:1347:56.31, 1
+Si oxide-coated graphite, 1
+anhydrous N,N-dimethylformamide, 1
+mixed aqueous solution, 1
+x, 1
+1.94:5.18:2.25:1.00:1273:26.61, 1
+achieved, 1
+undergoes, 1
+solid solutions, 1
+In(NO3)3*xH2O, 1
+bright yellow, 1
+bare, 1
+substrate surface, 1
+Fe3O4, 1
+2.3, 1
+2.7, 1
+2.4, 1
+2,2'-dipyridine, 2,2'-dipyridylamine, 1
+desirable amounts, 1
+mechanically, 1
+screen pore size, 1
+FP40, Julabo, 1
+thioglycolic acid, 1
+MWCNT@mesoporous carbon, 1
+chlorobenzene, 1
+anodization, 1
+Li1.17Ni0.17Co0.17Mn0.50O2-zFz, 1
+Dojindo, 1
+sediments, 1
+420, 1
+wet impregnation, 1
+hot press sintering, 1
+sintering, 1
+Ga:Zn, 1
+0.011, 1
+penicillin-streptomycin, 1
+electrical, 1
+electrode surface, 1
+both, 1
+C3N4-Pd-1%, 1
+conversion efficiency (IPCE) spectra, 1
+0.90, 1
+pressure-induced phase transitions, 1
+1.65, 1
+centrifugated, 1
+Sn1-xAgxTe, 1
+corundum balls, 1
+mixed solution, 1
+3NiO/S-1, 1
+iron(II) phthalocyanine, 1
+Pulverisette, 1
+borazine, 1
+1.68, 1
+Johor State, 1
+battery, 1
+diammonium salt, 1
+phosphonate, 1
+nanoporous, 1
+uncrosslinked, 1
+sodium dodecyl sulfate, 1
+7b, 1
+platinum, 1
+degC/h, 1
+36.0, 1
+Sb2MoO6, 1
+described, 1
+Sinopharm Chemical Reagent Corporation, 1
+Ultrasil VN3, 1
+simultaneous, 1
+Co NPs in Silica, 1
+de-molding, 1
+microspheres, 1
+VWR (Belgium), 1
+FBS, 1
+La(NO3)3*5H2O, 1
+6.18, 1
+Y3(1+x)Al5O12, 1
+C2H4N4, 1
+PMMA/graphene/glass, 1
+39, 1
+2.05:5.53:2.35:1.00:1347:14.08, 1
+Beijing Chemical Co., Ltd, 1
+HyClone, 1
+Ga1+xGe1-xTe, 1
+964, 1
+960, 1
+Ln(NO3)3, 1
+Analytical grade, 1
+968, 1
+969, 1
+hydroxylamine hydrochloride, 1
+Solutions, 1
+O3-type, 1
+seed, 1
+replaced, 1
+iron molds, 1
+HBr, 1
+chromatographed, 1
+%wt, 1
+n(C3N4), 1
+ligand solution, 1
+Solution B, 1
+Stober method.16, 1
+film deposition, 1
+TiN NPs, 1
+artificial air, 1
+Co ( H 2 O ) 6 2 +, 1
+grit, 1
+leaving, 1
+sponge, 1
+1537, 1
+Aldrich Chem, 1
+2-hydrazinopyridine, 1
+Bruker D8 advanced X-ray diffractometer, 1
+fibers, 1
+876, 1
+cobalt nitrate hexahydrate, 1
+874, 1
+875, 1
+872, 1
+Sb2WO6, 1
+1.6632, 1
+gel-filled, 1
+Nafion(r) perfluorinated resin, 1
+C.P. grade, 1
+belt-type high-pressure, 1
+polymethylhydrosiloxane, 1
+allows, 1
+AAO template, 1
+8.88, 1
+cure times, 1
+La2-xPrxCu1-yCoyO4+-δ, 1
+0.207, 1
+Geopolymer, 1
+moving, 1
+cleaning, 1
+437, 1
+compressive strength, 1
+15.0, 1
+PEI-Zn(II)-saturated membrane, 1
+lower, 1
+Shandong region of China, 1
+15.6, 1
+appropriate ratios, 1
+grind, 1
+solids, 1
+calibrated, 1
+0.378, 1
+sample chamber, 1
+MnOx, 1
+ASTM grade 1, 1
+buffered, 1
+763, 1
+766, 1
+20-50, 1
+764, 1
+manganous carbonate, 1
+press, 1
+HPC-2-m, 1
+1-Methyl-3-butylimidazolium iodide, 1
+Na-type ZSM-5, 1
+metallic, 1
+move, 1
+110-120, 1
+[17], 1
+[Environ. Sci. Technol., submitted], 1
+1072, 1
+1070, 1
+SIAD, 1
+10-15, 1
+1.92:4.00:1.92:1.00:1280:53.46, 1
+2-pyridylcarboxylic acid, 1
+0.197, 1
+as-formed white, 1
+2.11, 1
+Hoechst, 1
+1094, 1
+1095, 1
+Air, 1
+lanthanum nitrate, 1
+They, 1
+1092, 1
+tungsten mesh-heated vacuum, 1
+25-30, 1
+monoethanolamine, 1
+671, 1
+poly(ethylene glycol), 1
+26.0, 1
+BaTi0.85Sn0.15O3, 1
+Hosen Co., 1
+0.5:1.5, 1
+resols, 1
+polymers, 1
+350/400, 1
+field emission scanning electron microscopy (FESEM, JSM-6701F), 1
+continue, 1
+byproduct, 1
+Li2MnO3/CNT, 1
+ReCl3, 1
+J.T. Baker, 1
+impregnation, 1
+38.71, 1
+water bath, 1
+Sodium silicate, 1
+by weight, 1
+3.4, 1
+3.5, 1
+melting and slow cooling process, 1
+3.1, 1
+metal cations, 1
+Ce(NO3)4*4H2O, 1
+STNFs, 1
+ml h-1, 1
+Gd(NO3)3, 1
+Ammonium benzoate, 1
+Barnstead Model 525 Biopure Distilled Water Center, 1
+300-700, 1
+nanosheet, 1
+1525, 1
+1250, 1
+electrical wire explosion, 1
+30-60, 1
+Ti(OC4H9)4, 1
+run, 1
+Nanocrystalline, 1
+solution polymerization, 1
+2-11, 1
+7.20, 1
+in situ polymerization method, 1
+stainless steel container, 1
+alkaline, 1
+STREM, 1
+ambient temperature naturally, 1
+completing, 1
+firing, 1
+particle size range, 1
+SWCNT-COOH, 1
+range, 1
+POCH, 1
+Asbury Carbons Pty Ltd, 1
+high energy ball-milling, 1
+Anhydrous PdCl2, 1
+tellurous acid, 1
+Hg2+, 1
+852, 1
+stoichiometric mixtures, 1
+evacuated quartz, 1
+Intensive, 1
+neutrality, 1
+tightly, 1
+960-970, 1
+9.98, 1
+triethoxysilyl-propyl-5-mercapto-1-methyl-tetrazole, 1
+grids, 1
+Phychemi Company Limited, 1
+Johnson Matthey, 1
+85.2, 1
+Addition, 1
+1.50, 1
+3050, 1
+oxidizer, 1
+3051, 1
+.5, 1
+30-90, 1
+Ln(NO3)3*6H2O, 1
+0-3, 1
+Mn(NO3)*4H2O, 1
+ethanolamine, 1
+monomers, 1
+porous layered, 1
+10.15, 1
+10.17, 1
+Taiyuan Steel Co. Ltd., 1
+0.2333, 1
+Li1.2-xTixMn0.54Co0.13Ni0.13O2, 1
+1 : 2 : 0.06, 1
+sulfourea, 1
+Fc(MeOH)2, 1
+ketone, 1
+28 +- 2, 1
+solvothermal method, 1
+ILJIN Nanotech, 1
+Milli-Q Advantage A10 Water Purification system, 1
+1.208, 1
+autoclaved, 1
+acidity, 1
+metal, 1
+Graphite dies, 1
+Fluorochem, 1
+metals, 1
+solid to liquid ratio, 1
+simple hydrothermal route., 1
+cure, 1
+calcined and non-calcined, 1
+calcination temperatures, 1
+SnCl4, 1
+SiW@HKUST-1(III), 1
+uniaxially, 1
+95-96, 1
+Ni-Cu-P/C, 1
+Shanghai Chemical Reagents Co., Ltd, 1
+956, 1
+afford, 1
+3.24, 1
+pore diameter, 1
+Mn(NO3)2*4H2O, 1
+hexadecyltrimethylammonium bromide, 1
+Organic, 1
+solid-state method, 1
+AF, 1
+aggregates, 1
+(II), 1
+anionic surfactant sodium dodecyl sulfate, 1
+MnC4H6O4*4H2O, 1
+859, 1
+fertilizer, 1
+Aladdin Chemicals Co. Ltd., 1
+80:15:5, 1
+Phosphate buffer solution PBS, 1
+C2H3O2Li*2H2O, 1
+H6TeO6, 1
+blend, 1
+3421, 1
+gelling, 1
+2000, 1
+6.22, 1
+ternary, 1
+6.21, 1
+3033, 1
+thermal exfoliation, 1
+mill vial, 1
+0.218, 1
+model 636, EG&G, Princeton Applied Research, 1
+1141, 1
+nanoparticle, 1
+Mg2(1+x)Si0.45Sn0.537Sb0.013, 1
+Zn2+, 1
+adjustment, 1
+15,000, 1
+c-plane, 1
+infiltrated, 1
+Tianjin Chemical Reagent Co. Ltd., 1
+3550, 1
+stably, 1
+basic alumina chromatography column, 1
+3:7, 1
+Glass, 1
+4-Azidobenzenediazonium, 1
+stable, 1
+Accurate amounts, 1
+LnF3, 1
+(NH4)2HPO4, 1
+390-780, 1
+dissociates, 1
+Congo red, 1
+gas chromatograph, 1
+711, 1
+Kanto Chemical Co., Inc., 1
+C6H11FeNO7, 1
+dialysis membrane, 1
+dry pressing, 1
+reaction chamber, 1
+polymeric, 1
+ion exchange method, 1
+InCl3, 1
+PDMS, 1
+homogenize, 1
+grey, 1
+poly(vinyl alcohol), 1
+Ref. [16], 1
+1065, 1
+1064, 1
+1066, 1
+KQ-600KDE, 1
+2.28, 1
+2.29, 1
+one minute, 1
+Millipore Milli-Q Plus 185, 1
+2.21, 1
+Darco(r), 1
+monoethylglycinexylidide, 1
+EG&G, Princeton Applied Research, 1
+1087, 1
+1086, 1
+Macklin Inc. (China), 1
+disordered, 1
+1080, 1
+47.37, 1
+Rolled Alloys Inc., 1
+degassed, 1
+nanoflakes, 1
+(NH4)6Mo7O24, 1
+SnO2 nanocrystal/RGO, 1
+Nickel nitrate, 1
+reflux condenser, 1
+Fe nitrate, 1
+un-mixed, 1
+3384, 1
+developed, 1
+Oriented nanochannel, 1
+RIGAKU-DMAX2500 X-ray diffractometer, 1
+CH3COOLi*H2O, 1
+High-purity, 1
+uniaxially pressed, 1
+1409, 1
+SWCNTs, 1
+SnO2 nanocrystal/nitrogen-doped, 1
+pristine, 1
+1402, 1
+poly(tetrafluoroethylene) lined stainless steel, 1
+hydrothermally processed, 1
+16,22, 1
+Changsha Shenghua Research Institute, 1
+circulator, 1
+1333, 1
+titania, 1
+benzoic acid, 1
+oxidative, 1
+average length, 1
+laboratory use, Chem-Lab, 1
+mSBA-15, 1
+[Cu(bpy)VO2 {(HO3P)3C6H3}]*1.5H2O (12*1.5H2O), 1
+redox probes, 1
+settling, 1
+thermocouples, 1
+convert, 1
+38, 1
+Mg-doped, 1
+water glass, 1
+99.94, 1
+SPBT-1 Bench-Top Solvent Purification System, 1
+4.98, 1
+Alpha Aesar, 1
+small portion, 1
+1531, 1
+standard solution, 1
+4.97, 1
+composed, 1
+examining, 1
+copper(II) nitrate trihydrate, 1
+2.12:4.32:2.41:1.00:1374:28.71, 1
+PdL1-PdL5, 1
+three-necked glass reactor, 1
+P2-Na0.8Li0.12Ni0.22Mn0.66O2, 1
+333, 1
+LaMnO3, 1
+decrease, 1
+4.72, 1
+Ag/CNTs, 1
+FeSO4.7H2O, 1
+divinyl polydimethylsiloxane, 1
+lime, 1
+precipitate collection, 1
+stream, 1
+high molecular weight branched, 1
+1 : 10, 1
+2-10, 1
+0.0, 1
+filteration, 1
+autogenous pressure, 1
+vol%, 1
+1-Naphthol, 1
+poly(tetrafluoroethylene) (Teflon)-lined stainless steel, 1
+1/3, 1
+1/1, 1
+started, 1
+41.6, 1
+NTs, 1
+CH4N2S, 1
+Pulverisette 7 PL, 1
+hot pressed, 1
+9.85, 1
+labelled, 1
+[Cu(bpa){H2O3PC6H3(PO3H)2}]*H2O (20*H2O), 1
+DFF, 1
+Powder samples, 1
+548, 1
+7.3, 1
+pH sticks, 1
+cobalt-based, 1
+Mix, 1
+reaction rate, 1
+3.5 x 10-3, 1
+pour, 1
+Bi:S, 1
+flow rates, 1
+MARS, 1
+1.46, 1
+1.43, 1
+peristaltic, 1
+control, 1
+nanospheres, 1
+Encapsulation, 1
+750000, 1
+848, 1
+[PdCl2 (PPh3)2], 1
+gel combustion process, 1
+0.53, 1
+dimethylformamide, 1
+ammonia solution, 1
+230, 1
+Activation, 1
+six, 1
+poly(ethylene imine), 1
+25 +- 1, 1
+titanium alkoxides, 1
+evacuated glass, 1
+same molar ratio, 1
+stock, 1
+p-benzenedicarboxylic acid, 1
+simple batch equilibrium adsorption, 1
+exfoliation, 1
+concentrations, 1
+tosylate, 1
+sodium sulfide, 1
+G-NCs-5, 1
+Iron(III) nitrate nonahydrate, 1
+G-NCs-9, 1
+lithium hydroxide monohydrate, 1
+0.038, 1
+solutions A and B, 1
+Staudenmaier method, 1
+Fe2+, 1
+xCu-yCe-Ti, 1
+correspond, 1
+Analytical-grade, 1
+CH3CSNH2, 1
+PC61BM, 1
+recrystallized, 1
+4-ethynylpyridine hydrochloride, 1
+N2H4.H2O, 1
+g/ml, 1
+Millipore Corp., 1
+Yb, 1
+saturated, 1
+coordinated, 1
+red crystals, 1
+PEG-4000, 1
+CuFeS2-x, 1
+stripping, 1
+precalcined, 1
+La2Mo2O9, 1
+isoquinoline N-oxide, 1
+Hydrion, 1
+(NH2)2CS, 1
+1606, 1
+TPA+, 1
+high-purity natural, 1
+atomic composition, 1
+nano-sized catalysts, 1
+citric acid monohydrate C6H8O7*H2O, 1
+required amounts, 1
+Wako Chem, 1
+159, 1
+ZrO(NO3)2*xH2O, 1
+freshly distilled, 1
+cut display-grade, 1
+ASTM Method C 187-68, 1
+iridium, 1
+conventional solid-state reaction method, 1
+SrTi1-2xFexTaxO3, 1
+Shanghai Lingfeng Co. Ltd, 1
+M Ω, 1
+N,N'-dimethylformamide, 1
+Li2MnSiO4:C, 1
+fourth, 1
+MACl, 1
+Solid, 1
+Merck and Fluka, 1
+0.75:0.25, 1
+loadings, 1
+black film, 1
+milling speed, 1
+Xilong Chemical Co., Ltd, 1
+degC per minute, 1
+1400-1600, 1
+anisole, 1
+petridish, 1
+CS Hyde, 1
+H2SO4-HNO3, 1
+diethanolamine, 1
+pre-dried high-purity, 1
+Millipore system, 1
+magnetite, 1
+0.428, 1
+Co(AC)2*4H2O, 1
+mixes, 1
+trypsin, 1
+3,000, 1
+NNMO, 1
+60-65, 1
+704, 1
+706, 1
+fused silica, 1
+703, 1
+closed sealable polystyrene mold, 1
+toluene/GO, 1
+83, 1
+power, 1
+2.34, 1
+PMo, 1
+2.31, 1
+diquaternary ammonium, 1
+metal oxides, 1
+investigate, 1
+WO3, 1
+potassium formate, 1
+Mn[P2O5(OH)2], 1
+evacuation, 1
+1652, 1
+cobalt ferrite, 1
+Ni acetate, 1
+red, 1
+3214, 1
+585, 1
+582, 1
+583, 1
+Arc-discharge, 1
+transfer, 1
+analytical, 1
+2.50, 1
+Brodie method, 1
+3 x 20, 1
+CuSO4, 1
+Clevios, 1
+various temperatures, 1
+3392, 1
+1433, 1
+ultrafiltration tubes, 1
+volume ratio, 1
+1438, 1
+high purified, 1
+signed, 1
+retain, 1
+C1, 1
+inert gas, 1
+v/v ratio, 1
+[38], 1
+liquid sol, 1
+S850, 1
+453, 1
+1344, 1
+[54], 1
+S950, 1
+mol/dm3, 1
+ethyl acrylate, 1
+sol-gel precursors, 1
+liquid phase deposition method, 1
+Jelight Model 42, 1
+CS-x-y, 1
+flow rate, 1
+revealed, 1
+832, 1
+5-15, 1
+654, 1
+Sm(NO3)3, 1
+lithium iodide, 1
+99.0, 1
+final, 1
+manganese acetate tetrahydrate, 1
+Ba(NO3)2, 1
+2-5, 1
+minor amount, 1
+desiccation, 1
+7.44, 1
+4.43, 1
+MnCl2.4H2O, 1
+-1.4, 1
+TG test, 1
+tungsten carbide, 1
+58.47, 1
+PVDF, 1
+Ferrocene, 1
+different times, 1
+LysoTracker, 1
+KI, 1
+premixed, 1
+white aqueous, 1
+Hummers method32,33, 1
+3O2, 1
+amplitude, 1
+electron transport, 1
+negatively, 1
+10-3, 1
+50-100, 1
+1.6, 1
+99.9999, 1
+1.1, 1
+1.3, 1
+stable orange, 1
+metal salt, 1
+Zhao et al.22, 1
+Na2SiO3[?]9H2O, 1
+3364, 1
+epoxy cure, 1
+FAS-17, 1
+C6H8O7*H2O, 1
+macrophase, 1
+NdF3, 1
+[56], 1
+2.03:4.06:2.12:1.00:1279:11.34, 1
+electrochemical workstation (CHI 660E, 1
+gel mixture, 1
+1.32, 1
+Fabrication, 1
+1.37, 1
+JEOL-JEM 2011 electron microscope, 1
+thermally etched, 1
+deoxygenation, 1
+regioregular, 1
+IZO, 1
+scan rates, 1
+antimony, 1
+SnO2NC@ RGO, 1
+lidocaine, 1
+hydroiodic acid, 1
+bismuth ions, 1
+51, 1
+discharged, 1
+5-70, 1
+carboxylic acid groups, 1
+buffer solution, 1
+[36], 1
+thermogravimetric/differential thermal analysis (TG/DTA), 1
+[7], 1
+neutral, 1
+Na2SeO3, 1
+ignited, 1
+mechanical, 1
+scrap, 1
+CdO, 1
+1:0.5:0.5:1:1, 1
+3076, 1
+pure, crystalline, 1
+extractor, 1
+high temperature, 1
+terminate, 1
+5-Hydroxymethylfurfural, 1
+glass-ceramic, 1
+GenePharma, 1
+microsphere, 1
+C16-6-6(Br)2, 1
+based, 1
+6000, 1
+NGO-PEG, 1
+amine terminated telechelic PDMS, 1
+encapsulating agent, 1
+green solid, 1
+tape, 1
+equivalents, 1
+52, 1
+H2SO4 (aq), 1
+capsules, 1
+990, 1
+993, 1
+Zeolyst International, USA, 1
+[2], 1
+Ni@Hol S-1, 1
+fine crystalline, 1
+ones, 1
+Niobium chloride, 1
+127, 1
+sodium hypophosphite, 1
+9.4, 1
+fluidized bed reactor, 1
+Fetal bovine serum, 1
+Silicalite-1, 1
+NMBI, 1
+initial molar ratio, 1
+MnP-3, 1
+2:7, 1
+known amount, 1
+6.31, 1
+Co(COOH)2*4H2O, 1
+Li2MnSiO4/C, 1
+green bodies, 1
+34.8, 1
+34.4, 1
+34.3, 1
+as-grown film, 1
+GFs, 1
+anatase crystalline, 1
+2.05:4.24:2.26:1.00:1347:14.08, 1
+5-25, 1
+LnBa0.5Sr0.5Co2-xFexO5+δ, 1
+Hummers method.57, 1
+Zeolite NaX, 1
+PT, 1
+total volume, 1
+polycarboxylic acid, 1
+0.438, 1
+crude, 1
+0.300, 1
+3Mn2, 1
+Gd0.7Sr0.3CoO3, 1
+chelating agents, 1
+hydrazine sulphate, 1
+few mg, 1
+liquid condenser, 1
+screen printing method, 1
+precursor hydrolysis, 1
+tungsten(VI) oxide, 1
+Vanadium oxide, 1
+Pd(NO3)2, 1
+2.12:5.79:2.39:1.00:1374, 1
+C2H4, 1
+C2H2, 1
+2.40, 1
+2.41, 1
+s/step, 1
+2.45, 1
+isopropanol, 1
+ramp, 1
+B3H6N3, 1
+Optimization, 1
+freshly prepared solution, 1
+high-energy SPEX 8000 Series, 1
+Br, 1
+Alfa Aesar, 325 mesh, 1
+catalyst solution, 1
+10:1, 1
+576, 1
+HNO3(aq), 1
+homogenisation, 1
+table, 1
+0.15406, 1
+X-ray measurement, 1
+1421, 1
+pouring, 1
+electrical pulse treatment, 1
+Fast Red Al Salt, 1
+(I), 1
+three-necked flat-bottomed glass flask, 1
+CH3NH2, 1
+Wako Pure Chemical Industries, Ltd., 1
+465, 1
+tri-metallic, 1
+461, 1
+463, 1
+pasty brownish, 1
+finished, 1
+Li2SO4, 1
+1 x 10-3, 1
+acetate, 1
+decompressed, 1
+6.38, 1
+NH4H(HGeO3)2, 1
+epoxidation, 1
+aq, 1
+conductivity detector (TCD), 1
+cobalt NP, 1
+perfluorosulfonic acid-PTFE copolymer, 1
+RuO2*xH2O, 1
+936, 1
+1519, 1
+TiO2-xNy, 1
+1800, 1
+activation agent, 1
+reflux condition, 1
+pyrolitic BN, 1
+12:1, 1
+6:4, 1
+spinning, 1
+Wierzbicki et al.[24], 1
+Dupont Teijin Films., 1
+ambient, 1
+vol.%, 1
+UV-curable resins, 1
+elastomer, 1
+copper sulphate, 1
+mixer pan, 1
+conical, 1
+light blue, 1
+sufficient amount, 1
+larch-based resin, 1
+Sangon Biotech, 1
+Product, 1
+Solvent, 1
+Autef et al. [12], 1
+Si@C, 1
+), 1
+S750, 1
+Li4-x/2Ti5-x/2EuxO12@C, 1
+Loba, 1
+50 x 50 x 50, 1
+3187, 1
+tumbling, 1
+total stoichiometric quantities, 1
+min-1, 1
+carbonization temperature, 1
+Cu(CH3COO)2, 1
+GO/Cu2-xS NCs, 1
+nanomaterials, 1
+Er3+, 1
+H-type ZSM-5, 1
+ball, 1
+copper acetate, 1
+Third, 1
+appropriate quantity, 1
+oxidizing, 1
+1-5, 1
+14.7, 1
+12600, 1
+Acid Digestion vessel 4748, Parr Instrument Company, USA, 1
+crosslinkers, 1
+electrolyte supported cell, 1
+nickel(II) acetylacetonate, 1
+plastic bags, 1
+External quantum efficiency (EQE), 1
+well, 1
+reaction bath, 1
+Biella et al.12, 1
+Y-CP:Yb3+,Er3+, 1
+decreased, 1
+1.25, 1
+358, 1
+Nice Chemicals, 1
+NiLaZr, 1
+solid-to-liquid ratios, 1
+3100, 1
+IZO/Ag NW, 1
+sources, 1
+immobilized, 1
+reducing atmosphere, 1
+studying, 1
+heterostructures, 1
+bis(trifluoromethane)sulfonamide lithium, 1
+combusted, 1
+KHP, 1
+Analytical reagent grade, 1
+19.0, 1
+structure type, 1
+9:1, 1
+ice crush, 1
+identical, 1
+1117, 1
+Hierarchical 3D micro-/nano-, 1
+Polymethylmethacrylate, 1
+five, 1
+quasi-solid-state, 1
+zirconium propoxide, 1
+molybdenum(VI) sulfide dehydrate, 1
+hydrothermal pretreatment, 1
+butyl acetate, 1
+loss, 1
+2.2:0.95:1:0.05, 1
+99.997, 1
+solid-state synthesis, 1
+benzaldehyde, 1
+alkali, 1
+reaction medium, 1
+J&K Scientific Ltd, 1
+PbO, 1
+NH2OH*HCl, 1
+transition metal nitrate, 1
+thermolysis, 1
+Britton-Robinson buffer, 1
+Shenzhen Nanotech Port Co., Ltd., 1
+sequence, 1
+V-006, 1
+981, 1
+g/kg, 1
+985, 1
+115, 1
+1:1:1, 1
+phase-pure, 1
+polyvinyl alcohol, 1
+Powdered, 1
+electrocatalysts, 1
+arsenic, 1
+11.83, 1
+2-cyanopyridine, 1
+leaf, 1
+lead, 1
+spin coated, 1
+0.24, 1
+avoid, 1
+0.20, 1
+0.23, 1
+Planarized polyethylene naphthalate, 1
+ChemLab (Belgium), 1
+triple distilled, 1
+0.087, 1
+0.082, 1
+0.081, 1
+MnP, 1
+Saarchem, 1
+1-Methyl-3-propylimidazolium iodide, 1
+wine red precursor, 1
+27.2, 1
+5-substituted salicylaldehyde, 1
+5 x 5 x 30, 1
+27.6, 1
+nonaqueous, 1
+MnO, 1
+MnO2/HPCs-40, 1
+90,000, 1
+sulfate ions, 1
+solid mixture, 1
+Co(CH3COO)2*4H2O, 1
+Sigma-Aldrich Co, 1
+column, 1
+Guo Tai Hua Long Company, 1
+0.02 to 0.3, 1
+carrier, 1
+under reflux, 1
+aperture mask, 1
+Crystals, 1
+YCl3*6H2O, 1
+1,4,5,8-tetrachloroanthracene, 1
+calcination temperature, 1
+nickel carbonate, 1
+α-Mn2O3, 1
+deposition-precipitation, 1
+0.397, 1
+allantoin, 1
+in situ anion-exchange, 1
+thermo-polymerize, 1
+Mn2+, 1
+ramp down, 1
+1.15, 1
+67000, 1
+4.23, 1
+PW@HKUST-1(II), 1
+1636, 1
+1638, 1
+Pt/C(a), 1
+laboratory grade, 1
+noticed, 1
+predetermined amount, 1
+inner, 1
+obtained membrane, 1
+powdered, 1
+7, 8 and 25, 1
+polymerizing, 1
+Silicon, 1
+reaction temperature, 1
+FER, 1
+FEP, 1
+C2, 1
+Li[Li1/3-2x/3Mn2/3-x/3Nix]O2, 1
+sol-gel technique, 1
+diethyl, 1
+one night, 1
+2.5-20, 1
+1189, 1
+organic electrolyte, 1
+3374, 1
+86.4, 1
+3372, 1
+harvested, 1
+724, 1
+converted, 1
+723, 1
+720, 1
+Na et al.42, 1
+cm-3, 1
+0.25; 0.5; 0.75, 1
+1167, 1
+1160, 1
+1485, 1
+1163, 1
+1484, 1
+1168, 1
+1169, 1
+1500-1750, 1
+0.0225, 1
+sodium aluminate (anhydrous), 1
+aerogel, 1
+2KMnO4 (s), 1
+NaAc, 1
+ZIF-8/PEI-HPAN, 1
+0.860, 1
+carbonization process, 1
+46, 1
+ambiance condition, 1
+44, 1
+particle sizes, 1
+0.868, 1
+scanning rate, 1
+1:0.11:0.24:395:36, 1
+AgCl test, 1
+1299, 1
+NaAlO2, 1
+1560, 1
+acrylic, 1
+Methylammonium iodide, 1
+320, 1
+Ni0.35Mn0.75(OH)2, 1
+1360, 1
+peanut skins, 1
+4H-SrMnO3, 1
+Hummer's method44,45, 1
+final catalyst, 1
+repeated four times, 1
+ZnGa2O4, 1
+phosphorus, 1
+99.97, 1
+99.92, 1
+pure grey precursor, 1
+Ti(OCH(CH3)2)4, 1
+lasted, 1
+portion, 1
+fly ash based, 1
+stirrer, 1
+m Torr, 1
+glass pipet, 1
+lanthanide doped fluorides, 1
+539, 1
+1368, 1
