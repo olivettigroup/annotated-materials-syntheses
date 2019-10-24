@@ -59,10 +59,10 @@ ChemDataExtractor tool.
 `README.md`: This file.
 
 **License**
-TODO post acceptence.
+MIT Open Source License
 
 **Contact**
-edwardk@mit.edu, smysore@cs.umass.edu
+zjensen@mit.edu, smysore@cs.umass.edu
 
 
 [1]: http://brat.nlplab.org/index.html
