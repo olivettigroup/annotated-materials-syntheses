@@ -12,6 +12,9 @@
         ├── README.md
         ├── sentcount2papercount-sorted.txt
         ├── sentlen2sentcount-sorted.txt
+        ├── sfex-dev-fnames.txt
+        ├── sfex-test-fnames.txt
+        ├── sfex-train-fnames.txt
         └── tok2count-sorted.txt
 
 
@@ -27,13 +30,17 @@ contains annotations for 230 papers. The annotations are in the [BRAT Standoff
 format][2].
 
 `fex-{dev/test}-fnames.txt`: The files in the "data/" subdirectory corresponding
-to the dev and test splits for the frame extraction (fex) task. Since the task
-is primarily trained on unlabelled data we only release test and development 
+to the dev and test splits for an unsupervised frame extraction (fex) task. Since 
+the task is primarily trained on unlabelled data we only release test and development 
 data.
 
 `ner-{dev/test/train}-fnames.txt`: The files in the "data/" subdirectory 
 corresponding to the dev, test and train files for the named entity extraction
 (ner) task.
+
+`sfex-{dev/test/train}-fnames.txt`: The files in the "data/" subdirectory 
+corresponding to the dev, test and train files for the supervised frame extraction 
+task.
 
 *Dataset statistics:*
 
@@ -62,7 +69,32 @@ ChemDataExtractor tool.
 MIT Open Source License
 
 **Contact**
-zjensen@mit.edu, smysore@cs.umass.edu
+edwardk@mit.edu, smysore@cs.umass.edu
+
+**Citation**
+```
+@inproceedings{mysore-etal-2019-materials,
+    title = "The Materials Science Procedural Text Corpus: Annotating Materials Synthesis Procedures with Shallow Semantic Structures",
+    author = "Mysore, Sheshera  and
+      Jensen, Zachary  and
+      Kim, Edward  and
+      Huang, Kevin  and
+      Chang, Haw-Shiuan  and
+      Strubell, Emma  and
+      Flanigan, Jeffrey  and
+      McCallum, Andrew  and
+      Olivetti, Elsa",
+    booktitle = "Proceedings of the 13th Linguistic Annotation Workshop",
+    month = aug,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W19-4007",
+    doi = "10.18653/v1/W19-4007",
+    pages = "56--64"
+}
+```
+
 
 
 [1]: http://brat.nlplab.org/index.html
